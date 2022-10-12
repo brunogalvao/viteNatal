@@ -40,5 +40,31 @@ body {
   width: 100vw;
   height: 100vh;
 
-  border-left: 1px solid white;
+  /* border-left: 1px solid white; */
+}
+
+.abertura {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.abertura .logo {
+  position: absolute;
+  width: 218px;
+  margin-top: -20rem;
+}
+
+.abertura .tangua {
+  position: absolute;
+  width: 85%;
+  height: auto;
+  bottom: calc(var(--floor) - 3px);
+}
+
+.abertura .texto {
+  margin-top: 12rem;
 }
