@@ -40,13 +40,13 @@ body {
 
 .araucaria {
   position: fixed;
-  width: 100%;
+  width: 300%;
   height: 22rem;
   bottom: 0;
 }
 
 .araucaria > span > img {
-  /* width: 1200%; */
+  width: 100%;
   height: 22rem;
   /* background-image: url("../img/araucaria.svg");
   /* background-repeat: repeat-x; */

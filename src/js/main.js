@@ -30,7 +30,7 @@ if (pinnedImageWrappers) {
     const tangua = document.querySelector('.tangua');
     const logo = document.querySelector('.logo');
     const floor = document.querySelector('.floor');
-    const araucaria = document.querySelector('.araucaria > span');
+    const araucaria = document.querySelector('.araucaria');
 
     let duration = 1,
       sections = gsap.utils.toArray(".scene"),
@@ -54,11 +54,11 @@ if (pinnedImageWrappers) {
 
     gsap.to(araucaria, {
       x: -380,
-      position: 'absolute',
+      position: 'fixed',
       ease: 'none',
       scrollTrigger: {
         start: 'top top',
-        trigger: wrapper,
+        // trigger: wrapper,
         pin: '.allContent',
         scrub: true,
         markers: true,
