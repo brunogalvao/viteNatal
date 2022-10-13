@@ -2,8 +2,12 @@ import '../css/style.css'
 // Import our custom CSS
 // import '../scss/styles.scss'
 
-import { gsap } from "gsap";
-import { ScrollTrigger } from "gsap/ScrollTrigger";
+// Import all of Bootstrap's JS
+import * as bootstrap from 'bootstrap'
+
+import { gsap } from "gsap"
+// import { ScrollToPlugin } from "gsap/dist/ScrollToPlugin";
+import { ScrollTrigger } from "gsap/dist/ScrollTrigger"
 
 gsap.registerPlugin(ScrollTrigger);
 
