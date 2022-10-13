@@ -1,13 +1,10 @@
 import '../css/style.css'
-// Import our custom CSS
-// import '../scss/styles.scss'
 
-// Import all of Bootstrap's JS
-import * as bootstrap from 'bootstrap'
 
 import { gsap } from "gsap"
+import { ScrollTrigger } from 'gsap/all'
 // import { ScrollToPlugin } from "gsap/dist/ScrollToPlugin";
-import { ScrollTrigger } from "gsap/dist/ScrollTrigger"
+// import { ScrollTrigger } from "gsap/dist/ScrollTrigger"
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -17,36 +14,42 @@ const pinnedImageWrappers = document.querySelectorAll('.js-wrap');
 if (pinnedImageWrappers) {
   pinnedImageWrappers.forEach((wrapper) => {
     const inner = wrapper.querySelector('.js-inner');
-    const arbustos = document.querySelector('.arbustos > span');
-    const araucaria = document.querySelector('.araucaria > span');
-    const logoSmall = document.querySelectorAll('.logoSmall');
-    const passeio = document.querySelector('.passeio');
-    const parqueNautico = document.querySelector('.parqueNautico');
-    const parqueTangua = document.querySelector('.parqueTangua');
-    const federal = document.querySelector('.federal');
-    const escola = document.querySelector('.escola');
-    const carrosselPasseio = document.querySelector('.carrosselPasseio');
-    const memorialParanista = document.querySelector('.memorialParanista');
-    const musica = document.querySelector('.musica');
-    const palacioAvenida = document.querySelector('.palacioAvenida');
+    // const arbustos = document.querySelector('.arbustos > span');
+    // const araucaria = document.querySelector('.araucaria > span');
+    // const logoSmall = document.querySelectorAll('.logoSmall');
+    // const passeio = document.querySelector('.passeio');
+    // const parqueNautico = document.querySelector('.parqueNautico');
+    // const parqueTangua = document.querySelector('.parqueTangua');
+    // const federal = document.querySelector('.federal');
+    // const escola = document.querySelector('.escola');
+    // const carrosselPasseio = document.querySelector('.carrosselPasseio');
+    // const memorialParanista = document.querySelector('.memorialParanista');
+    // const musica = document.querySelector('.musica');
+    // const palacioAvenida = document.querySelector('.palacioAvenida');
 
-    let duration = 10,
+    const tangua = document.querySelector('.tangua');
+    const logo = document.querySelector('.logo');
+    const floor = document.querySelector('.floor');
+
+    const content = document.querySelector('.content-wrapper');
+
+    let duration = 1,
       sections = gsap.utils.toArray(".scene"),
-      sectionIncrement = duration / (sections.length - 1),
+      // sectionIncrement = duration / (sections.length - 1),
       tl = gsap.timeline({
         scrollTrigger: {
           trigger: wrapper,
           pin: true,
           scrub: 1,
           snap: 1 / (sections.length - 1),
-          start: "top top",
+          // start: "top top",
           end: () => `+=${inner.offsetWidth}`
         }
       });
 
     tl.to(sections, {
       xPercent: -100 * (sections.length - 1),
-      duration: duration,
+      duration: 1,
       ease: "none"
     });
 
@@ -81,9 +84,21 @@ if (pinnedImageWrappers) {
     //   }
     // })
 
-    gsap.to('.tangua', {
+    gsap.to(tangua, {
       position: 'absolute',
       start: 'bottom'
+    });
+
+    gsap.to(logo, {
+      position: 'absolute',
+      start: 'bottom'
+    });
+
+    gsap.to(floor, {
+      position: 'absolute',
+      x: 0,
+      start: 'bottom',
+      end: 'bottom'
     });
 
     // gsap.to(logoSmall, {
