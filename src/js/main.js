@@ -27,11 +27,10 @@ if (pinnedImageWrappers) {
     // const musica = document.querySelector('.musica');
     // const palacioAvenida = document.querySelector('.palacioAvenida');
 
+
     const tangua = document.querySelector('.tangua');
     const logo = document.querySelector('.logo');
     const floor = document.querySelector('.floor');
-
-    const content = document.querySelector('.content-wrapper');
 
     let duration = 1,
       sections = gsap.utils.toArray(".scene"),
@@ -49,7 +48,7 @@ if (pinnedImageWrappers) {
 
     tl.to(sections, {
       xPercent: -100 * (sections.length - 1),
-      duration: 1,
+      duration: duration,
       ease: "none"
     });
 
@@ -95,8 +94,7 @@ if (pinnedImageWrappers) {
     });
 
     gsap.to(floor, {
-      position: 'absolute',
-      x: 0,
+      position: 'fixed',
       start: 'bottom',
       end: 'bottom'
     });
