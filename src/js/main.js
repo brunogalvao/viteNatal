@@ -15,7 +15,6 @@ if (pinnedImageWrappers) {
   pinnedImageWrappers.forEach((wrapper) => {
     const inner = wrapper.querySelector('.js-inner');
     // const arbustos = document.querySelector('.arbustos > span');
-    // const araucaria = document.querySelector('.araucaria > span');
     // const logoSmall = document.querySelectorAll('.logoSmall');
     // const passeio = document.querySelector('.passeio');
     // const parqueNautico = document.querySelector('.parqueNautico');
@@ -26,11 +25,12 @@ if (pinnedImageWrappers) {
     // const memorialParanista = document.querySelector('.memorialParanista');
     // const musica = document.querySelector('.musica');
     // const palacioAvenida = document.querySelector('.palacioAvenida');
-
-
+    
+    
     const tangua = document.querySelector('.tangua');
     const logo = document.querySelector('.logo');
     const floor = document.querySelector('.floor');
+    const araucaria = document.querySelector('.araucaria > span');
 
     let duration = 1,
       sections = gsap.utils.toArray(".scene"),
@@ -52,20 +52,20 @@ if (pinnedImageWrappers) {
       ease: "none"
     });
 
-    // gsap.to(araucaria, {
-    //   x: -380,
-    //   position: 'absolute',
-    //   ease: 'none',
-    //   scrollTrigger: {
-    //     start: 'top top',
-    //     trigger: wrapper,
-    //     pin: '.allContent',
-    //     scrub: true,
-    //     markers: true,
-    //     invalidateOnRefresh: true,
-    //     end: () => `+=${inner.offsetWidth}`
-    //   }
-    // })
+    gsap.to(araucaria, {
+      x: -380,
+      position: 'absolute',
+      ease: 'none',
+      scrollTrigger: {
+        start: 'top top',
+        trigger: wrapper,
+        pin: '.allContent',
+        scrub: true,
+        markers: true,
+        invalidateOnRefresh: true,
+        end: () => `+=${inner.offsetWidth}`
+      }
+    })
 
 
     // gsap.to(arbustos, {
