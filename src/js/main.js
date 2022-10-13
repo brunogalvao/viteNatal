@@ -23,11 +23,14 @@ if (pinnedImageWrappers) {
     // const palacioAvenida = document.querySelector('.palacioAvenida');
     
     
+    const botanico = document.querySelector('.botanico');
     const tangua = document.querySelector('.tangua');
     const logo = document.querySelector('.logo');
     const floor = document.querySelector('.floor');
     const araucaria = document.querySelector('.araucaria');
     const arbustos = document.querySelector('.arbustos');
+    const cloud = document.querySelector('.cloud');
+    const cloudAnimation = document.querySelector('.cloud-animation');
     
     let duration = 1,
       sections = gsap.utils.toArray(".scene"),
@@ -80,6 +83,11 @@ if (pinnedImageWrappers) {
       }
     })
 
+    gsap.to(botanico, {
+      position: 'absolute',
+      start: 'bottom'
+    });
+
     gsap.to(tangua, {
       position: 'absolute',
       start: 'bottom'
@@ -94,6 +102,16 @@ if (pinnedImageWrappers) {
       position: 'fixed',
       start: 'bottom',
       end: 'bottom'
+    });
+
+    gsap.to(cloud, {
+      position: 'fixed',
+      start: 'top',
+    });
+
+    gsap.to(cloudAnimation, {
+      position: 'fixed',
+      start: 'top',
     });
 
     // gsap.to(logoSmall, {

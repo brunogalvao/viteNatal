@@ -10,8 +10,10 @@
 
 <body>
 
-
   <div class="all-content">
+
+    <div class="cloud"></div>
+    <div class="cloud-animation"></div>
 
     <div class="floor"></div>
 
@@ -36,13 +38,16 @@
               <!-- logo     -->
               <img class="logo" src="img/logo.png" />
 
-              <div class="texto d-flex justify-content-center flex-column align-items-center">
+              <div class="texto d-flex justify-content-center flex-column align-items-center pt-3">
                 <div class="subtitulo text-center">É chegada a hora de comemorar. </div>
                 <p class="text-white text-center">Dar uma pausa na pressa, nas telas, nos compromissos e
                   curtir um momento único e tão esperando o ano inteiro: <br> <b>o Natal</b>.</p>
               </div>
 
-              <img class="tangua" src="img/tangua.svg" alt="parque tangua" />
+              <!-- <img src="img/botanico.png" alt="Jardim Botanico" /> -->
+
+              <img class="botanico" src="img/botanico.svg" />
+
 
             </div>
 
@@ -94,6 +99,50 @@
       </div>
     </section>
   </div>
+
+  <!-- Fireworks -->
+  <script src="https://cdn.jsdelivr.net/npm/fireworks-js@latest/dist/fireworks.js"></script>
+
+  <script>
+      const container = document.querySelector('.fireworks-container')
+      const fireworks = new Fireworks(container, {
+          rocketsPoint: 50,
+          hue: { min: 15, max: 30 },
+          delay: { min: 15, max: 30 },
+          speed: 10,
+          acceleration: 1.2,
+          friction: 0.95,
+          gravity: 1.5,
+          particles: 90,
+          trace: 1,
+          explosion: 6,
+          intensity: 10,
+          autoresize: true,
+          brightness: {
+              min: 50,
+              max: 80,
+              decay: { min: 0.015, max: 0.03 }
+          },
+          mouse: {
+              click: false,
+              move: false,
+              // max: 3
+          },
+          boundaries: {
+              visible: false
+          },
+          sound: {
+              enable: true,
+              files: [
+                  'https://fireworks.js.org/sounds/explosion0.mp3',
+                  'https://fireworks.js.org/sounds/explosion1.mp3',
+                  'https://fireworks.js.org/sounds/explosion2.mp3'
+              ],
+              volume: { min: 1, max: 2 },
+          }
+      });
+      fireworks.start()
+  </script>
 
 
 

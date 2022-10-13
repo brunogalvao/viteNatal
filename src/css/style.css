@@ -1,3 +1,6 @@
+@import '../fonts/montserrat/style.css';
+@import '../fonts/playfair/style.css';
+
 :root {
   /* font-family: Inter, Avenir, Helvetica, Arial, sans-serif; */
   font-family: var(--fontPadrao);
@@ -20,6 +23,29 @@
   --fontNatal: 'playfair-display', serif;
 }
 
+.pt-3 {
+  padding-top: 3rem;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.fst-italic {
+  font-style: italic;
+}
 
 body {
   margin: 0;
@@ -27,6 +53,7 @@ body {
   box-sizing: border-box;
 
 }
+
 
 .floor {
   position: absolute;
@@ -58,6 +85,65 @@ body {
 .arbustos img {
   bottom: 0;
   object-fit: cover;
+}
+
+.cloud {
+  position: absolute;
+  width: 100%;
+  height: 6rem;
+  background: url('../img/estrelas.svg');
+  background-repeat: repeat-x;
+}
+
+
+.cloud-animation {
+  position: absolute;
+  width: 100vw;
+  height: 123px;
+  top: 0;
+
+  background: url('../img/estrelas-animation.svg');
+  background-repeat: repeat-x;
+  opacity: 1;
+  z-index: 1;
+  transition: all 5s ease-in;
+  animation: blink-animation 5s infinite;
+  -webkit-animation: blink-animation 5s steps(5, start) infinite;
+}
+
+@keyframes blink-animation {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+@-webkit-keyframes blink-animation {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+.fireworks-container {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  z-index: -99;
 }
 
 /* botão */
@@ -94,21 +180,48 @@ body {
 }
 
 .texto {
-  max-width: 60%;
+  max-width: 40%;
+}
+
+.text-center {
+  text-align: center;
 }
 
 .text-white {
   color: var(--light);
 }
 
-.subtitulo {
-  color: var(--natal);
+.titulo {
+  width: 60%;
   font-family: var(--fontNatal);
+  color: var(--light);
+  font-size: 1.87rem;
+  line-height: 1.1;
+  margin-bottom: .8rem;
+}
+
+.subtitulo {
+  /* width: 60%; */
+  font-family: var(--fontNatal);
+  color: var(--natal);
+  font-size: 1.43rem;
+  line-height: 1.1;
+  margin-bottom: .8rem;
+  font-weight: bold;
 }
 
 .content-wrapper {
   background: rgb(228, 3, 46);
   background: radial-gradient(circle, rgba(228, 3, 46, 1) 0%, rgba(102, 31, 36, 1) 82%, rgba(57, 32, 28, 1) 100%);
+}
+
+.logoSmall {
+  width: 100%;
+  height: 10.2rem;
+  background: url('../img/logoSmall.svg') no-repeat;
+  background-position: center center;
+  top: 6.2rem;
+  margin-bottom: 1rem;
 }
 
 .inner {
@@ -141,10 +254,10 @@ body {
   margin-top: 2rem;
 }
 
-.abertura .tangua {
+.abertura .botanico {
   position: absolute;
-  width: 78%;
-  height: auto;
+  width: 100%;
+  height: 14rem;
   bottom: calc(var(--floor) - 3px);
 }
 
