@@ -1,10 +1,7 @@
 import '../css/style.css'
 
-
 import { gsap } from "gsap"
 import { ScrollTrigger } from 'gsap/all'
-// import { ScrollToPlugin } from "gsap/dist/ScrollToPlugin";
-// import { ScrollTrigger } from "gsap/dist/ScrollTrigger"
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -14,7 +11,6 @@ const pinnedImageWrappers = document.querySelectorAll('.js-wrap');
 if (pinnedImageWrappers) {
   pinnedImageWrappers.forEach((wrapper) => {
     const inner = wrapper.querySelector('.js-inner');
-    // const arbustos = document.querySelector('.arbustos > span');
     // const logoSmall = document.querySelectorAll('.logoSmall');
     // const passeio = document.querySelector('.passeio');
     // const parqueNautico = document.querySelector('.parqueNautico');
@@ -31,7 +27,8 @@ if (pinnedImageWrappers) {
     const logo = document.querySelector('.logo');
     const floor = document.querySelector('.floor');
     const araucaria = document.querySelector('.araucaria');
-
+    const arbustos = document.querySelector('.arbustos');
+    
     let duration = 1,
       sections = gsap.utils.toArray(".scene"),
       // sectionIncrement = duration / (sections.length - 1),
@@ -61,27 +58,27 @@ if (pinnedImageWrappers) {
         // trigger: wrapper,
         pin: '.allContent',
         scrub: true,
-        markers: true,
+        // markers: true,
         invalidateOnRefresh: true,
         end: () => `+=${inner.offsetWidth}`
       }
     })
 
 
-    // gsap.to(arbustos, {
-    //   x: -200,
-    //   position: 'absolute',
-    //   ease: 'none',
-    //   scrollTrigger: {
-    //     start: 'top top',
-    //     trigger: wrapper,
-    //     pin: '.allContent',
-    //     scrub: true,
-    //     markers: true,
-    //     invalidateOnRefresh: true,
-    //     end: () => `+=${inner.offsetWidth}`
-    //   }
-    // })
+    gsap.to(arbustos, {
+      x: -200,
+      position: 'fixed',
+      ease: 'none',
+      scrollTrigger: {
+        start: 'top top',
+        // trigger: wrapper,
+        pin: '.allContent',
+        scrub: true,
+        // markers: true,
+        invalidateOnRefresh: true,
+        end: () => `+=${inner.offsetWidth}`
+      }
+    })
 
     gsap.to(tangua, {
       position: 'absolute',

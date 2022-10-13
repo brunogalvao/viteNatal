@@ -1,20 +1,19 @@
 :root {
-  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  /* font-family: Inter, Avenir, Helvetica, Arial, sans-serif; */
+  font-family: var(--fontPadrao);
   font-size: 16px;
   line-height: 24px;
   font-weight: 400;
-
-  /* color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424; */
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+
   --primary: #52151B;
   --secondary: #97263C;
+  --light: #fff;
   --floor: 2.68rem;
   --natal: #DAA573;
   --fontPadrao: montserrat, sans-serif;
@@ -35,7 +34,7 @@ body {
   height: var(--floor);
   border-bottom: var(--floor) solid var(--primary);
   bottom: 0;
-  z-index: 0;
+  z-index: 1;
 }
 
 .araucaria {
@@ -45,14 +44,66 @@ body {
   bottom: 0;
 }
 
-.araucaria > span > img {
-  width: 100%;
-  height: 22rem;
-  /* background-image: url("../img/araucaria.svg");
-  /* background-repeat: repeat-x; */
-  /* background-position: bottom center;
-  background-size: 90%; */
-  opacity: .6;
+.arbustos {
+  position: fixed;
+  width: 300%;
+  height: 9.4rem;
+  bottom: 0;
+  z-index: 9;
+  display: flex;
+
+  overflow: hidden;
+}
+
+.arbustos img {
+  bottom: 0;
+  object-fit: cover;
+}
+
+/* botão */
+.btn-natal {
+  height: 42px;
+  background: var(--secondary);
+  color: var(--natal);
+  border: none;
+  font-family: var(--fontNatal);
+  font-size: 1rem;
+  font-weight: bold;
+  line-height: 1.8;
+  padding: 0 .9rem;
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  transition: all .3s ease-in;
+}
+
+.btn-natal:before {
+  content: '......';
+  width: 32px;
+  background: url('../img/btn-icon.svg') no-repeat;
+  background-size: 22px;
+  height: auto;
+  margin-left: -26px;
+  color: transparent;
+  align-items: center;
+  flex-direction: column;
+}
+
+.btn-natal:is(:hover) {
+  filter: contrast(175%);
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+}
+
+.texto {
+  max-width: 60%;
+}
+
+.text-white {
+  color: var(--light);
+}
+
+.subtitulo {
+  color: var(--natal);
+  font-family: var(--fontNatal);
 }
 
 .content-wrapper {
