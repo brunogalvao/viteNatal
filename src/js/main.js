@@ -61,36 +61,36 @@ if (pinnedImageWrappers) {
       ease: "none"
     });
 
-    // gsap.to(araucaria, {
-    //   x: -380,
-    //   position: 'fixed',
-    //   ease: 'none',
-    //   scrollTrigger: {
-    //     start: 'top top',
-    //     // trigger: wrapper,
-    //     pin: '.allContent',
-    //     scrub: true,
-    //     // markers: true,
-    //     invalidateOnRefresh: true,
-    //     end: () => `+=${inner.offsetWidth}`
-    //   }
-    // })
+    gsap.to(araucaria, {
+      x: -380,
+      position: 'fixed',
+      ease: 'none',
+      scrollTrigger: {
+        start: 'top top',
+        // trigger: wrapper,
+        pin: '.allContent',
+        scrub: true,
+        // markers: true,
+        invalidateOnRefresh: true,
+        end: () => `+=${inner.offsetWidth}`
+      }
+    })
 
 
-    // gsap.to(arbustos, {
-    //   x: -200,
-    //   position: 'fixed',
-    //   ease: 'none',
-    //   scrollTrigger: {
-    //     start: 'top top',
-    //     // trigger: wrapper,
-    //     pin: '.allContent',
-    //     scrub: true,
-    //     // markers: true,
-    //     invalidateOnRefresh: true,
-    //     end: () => `+=${inner.offsetWidth}`
-    //   }
-    // })
+    gsap.to(arbustos, {
+      x: -200,
+      position: 'fixed',
+      ease: 'none',
+      scrollTrigger: {
+        start: 'top top',
+        // trigger: wrapper,
+        pin: '.allContent',
+        scrub: true,
+        // markers: true,
+        invalidateOnRefresh: true,
+        end: () => `+=${inner.offsetWidth}`
+      }
+    })
 
     gsap.to(botanico, {
       position: 'absolute',
