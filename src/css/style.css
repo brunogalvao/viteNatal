@@ -221,6 +221,51 @@ body {
   bottom: calc(var(--floor) - 3px);
 }
 
+.memorialParanista {
+  width: 88%;
+  height: var(--alturaImg);
+  bottom: calc(var(--floor) - 20px);
+}
+
+.escola {
+  width: auto;
+  height: var(--alturaImg);
+  bottom: calc(var(--floor) - 48px);
+}
+
+.musica {
+  width: 82%;
+  height: var(--alturaImg);
+  bottom: calc(var(--floor) - 30px);
+}
+
+.arvoreMusica {
+  width: auto;
+  height: 26rem;
+  bottom: 0;
+  left: -156px;
+}
+
+.gastronomia {
+  width: 82%;
+  height: var(--alturaImg);
+  bottom: calc(var(--floor) - 24px);
+  z-index: 9;
+}
+
+.roteiro {
+  width: auto;
+  height: var(--alturaImg);
+  bottom: calc(var(--floor) - 1px);
+  right: 40px;
+}
+
+.scene15 {
+  width: auto;
+  height: var(--alturaImg);
+  bottom: calc(var(--floor) - 3px);
+}
+
 .fireworks-container {
   position: absolute;
   width: 100%;
@@ -346,6 +391,12 @@ body {
 
 .abertura .logo {
   position: absolute;
+  width: 218px;
+  margin-top: 2rem;
+}
+
+.logoScene15 {
+  /* position: absolute; */
   width: 218px;
   margin-top: 2rem;
 }

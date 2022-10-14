@@ -11,13 +11,6 @@ const pinnedImageWrappers = document.querySelectorAll('.js-wrap');
 if (pinnedImageWrappers) {
   pinnedImageWrappers.forEach((wrapper) => {
     const inner = wrapper.querySelector('.js-inner');
-    // const logoSmall = document.querySelectorAll('.logoSmall');
-    // const parqueTangua = document.querySelector('.parqueTangua');
-    // const escola = document.querySelector('.escola');
-    // const carrosselPasseio = document.querySelector('.carrosselPasseio');
-    // const memorialParanista = document.querySelector('.memorialParanista');
-    // const musica = document.querySelector('.musica');
-    
     
     const botanico = document.querySelector('.botanico');
     const tangua = document.querySelector('.tangua');
@@ -39,6 +32,14 @@ if (pinnedImageWrappers) {
     const rodaGigante = document.querySelector('.rodaGigante');
     const cavalinho = document.querySelector('.cavalinho');
     const carrosselPasseio = document.querySelector('.carrosselPasseio');
+    const memorialParanista = document.querySelector('.memorialParanista');
+    const escola = document.querySelector('.escola');
+    const musica = document.querySelector('.musica');
+    const arvoreMusica = document.querySelector('.arvoreMusica');
+    const gastronomia = document.querySelector('.gastronomia');
+    const roteiro = document.querySelector('.roteiro');
+    // const logoScene15 = document.querySelector('.logoScene15');
+    const scene15 = document.querySelector('.scene15');
     
     let duration = 1,
       sections = gsap.utils.toArray(".scene"),
@@ -178,6 +179,46 @@ if (pinnedImageWrappers) {
     });
 
     gsap.to(carrosselPasseio, {
+      position: 'absolute',
+      start: 'top',
+    });
+
+    gsap.to(memorialParanista, {
+      position: 'absolute',
+      start: 'top',
+    });
+
+    gsap.to(escola, {
+      position: 'absolute',
+      start: 'top',
+    });
+
+    gsap.to(musica, {
+      position: 'absolute',
+      start: 'top',
+    });
+
+    gsap.to(arvoreMusica, {
+      position: 'absolute',
+      start: 'top',
+    });
+
+    gsap.to(gastronomia, {
+      position: 'absolute',
+      start: 'top',
+    });
+
+    gsap.to(roteiro, {
+      position: 'absolute',
+      start: 'top',
+    });
+
+    // gsap.to(logoScene15, {
+    //   position: 'absolute',
+    //   start: 'top',
+    // });
+
+    gsap.to(scene15, {
       position: 'absolute',
       start: 'top',
     });
