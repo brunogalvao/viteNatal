@@ -41,7 +41,7 @@ if (pinnedImageWrappers) {
     // const logoScene15 = document.querySelector('.logoScene15');
     const scene15 = document.querySelector('.scene15');
     
-    let duration = 1,
+    let duration = 10,
       sections = gsap.utils.toArray(".scene"),
       // sectionIncrement = duration / (sections.length - 1),
       tl = gsap.timeline({
@@ -61,36 +61,36 @@ if (pinnedImageWrappers) {
       ease: "none"
     });
 
-    gsap.to(araucaria, {
-      x: -380,
-      position: 'fixed',
-      ease: 'none',
-      scrollTrigger: {
-        start: 'top top',
-        // trigger: wrapper,
-        pin: '.allContent',
-        scrub: true,
-        // markers: true,
-        invalidateOnRefresh: true,
-        end: () => `+=${inner.offsetWidth}`
-      }
-    })
+    // gsap.to(araucaria, {
+    //   x: -380,
+    //   position: 'fixed',
+    //   ease: 'none',
+    //   scrollTrigger: {
+    //     start: 'top top',
+    //     // trigger: wrapper,
+    //     pin: '.allContent',
+    //     scrub: true,
+    //     // markers: true,
+    //     invalidateOnRefresh: true,
+    //     end: () => `+=${inner.offsetWidth}`
+    //   }
+    // })
 
 
-    gsap.to(arbustos, {
-      x: -200,
-      position: 'fixed',
-      ease: 'none',
-      scrollTrigger: {
-        start: 'top top',
-        // trigger: wrapper,
-        pin: '.allContent',
-        scrub: true,
-        // markers: true,
-        invalidateOnRefresh: true,
-        end: () => `+=${inner.offsetWidth}`
-      }
-    })
+    // gsap.to(arbustos, {
+    //   x: -200,
+    //   position: 'fixed',
+    //   ease: 'none',
+    //   scrollTrigger: {
+    //     start: 'top top',
+    //     // trigger: wrapper,
+    //     pin: '.allContent',
+    //     scrub: true,
+    //     // markers: true,
+    //     invalidateOnRefresh: true,
+    //     end: () => `+=${inner.offsetWidth}`
+    //   }
+    // })
 
     gsap.to(botanico, {
       position: 'absolute',
