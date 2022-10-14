@@ -200,7 +200,7 @@ body {
 }
 
 .texto {
-  max-width: 40%;
+  width: 40%;
 }
 
 .text-center {
@@ -286,31 +286,33 @@ body {
   margin-top: 20rem;
 }
 
+/* smartphone */
+@media screen and (max-width: 767px) {
+  :root {
+    --floor: 4.2rem;
+  }
 
-/* * {
-  box-sizing: border-box;
+  .arbustos {
+    height: 7.4rem;
+  }
+
+  .abertura .botanico,
+  .scene2,
+  .scene3 {
+    height: 12.8rem;
+  }
+
+  .texto {
+    width: 72%;
+  }
+
+  .arvoreNatal {
+    height: 28rem;
+  }
 }
 
-body {
-  font-family: sans-serif;
-  margin: 0;
-}
+/* tablet*/
+@media screen and (min-width: 767px) and (max-width: 1023px) {}
 
-.badge {
-  width: 100%;
-  height: 100%;
-}
-
-.container {
-  width: 100vw;
-  height: 100vh;
-  display: flex;
-  flex-wrap: no-wrap;
-
-  background: rgb(228, 3, 46);
-  background: radial-gradient(circle, rgba(228, 3, 46, 1) 0%, rgba(102, 31, 36, 1) 82%, rgba(57, 32, 28, 1) 100%);
-}
-
-.panel {
-  width: 100vw;
-} */
+/* desktop */
+@media screen and (min-width: 1024px) {}
