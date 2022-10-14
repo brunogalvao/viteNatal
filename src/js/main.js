@@ -12,15 +12,11 @@ if (pinnedImageWrappers) {
   pinnedImageWrappers.forEach((wrapper) => {
     const inner = wrapper.querySelector('.js-inner');
     // const logoSmall = document.querySelectorAll('.logoSmall');
-    // const passeio = document.querySelector('.passeio');
-    // const parqueNautico = document.querySelector('.parqueNautico');
     // const parqueTangua = document.querySelector('.parqueTangua');
-    // const federal = document.querySelector('.federal');
     // const escola = document.querySelector('.escola');
     // const carrosselPasseio = document.querySelector('.carrosselPasseio');
     // const memorialParanista = document.querySelector('.memorialParanista');
     // const musica = document.querySelector('.musica');
-    // const palacioAvenida = document.querySelector('.palacioAvenida');
     
     
     const botanico = document.querySelector('.botanico');
@@ -34,6 +30,15 @@ if (pinnedImageWrappers) {
     const scene2 = document.querySelector('.scene2');
     const arvoreNatal = document.querySelector('.arvoreNatal');
     const scene3 = document.querySelector('.scene3');
+    const passeio = document.querySelector('.passeio');
+    const parqueNautico = document.querySelector('.parqueNautico');
+    const reiMago = document.querySelector('.reiMago');
+    const palacioAvenida = document.querySelector('.palacioAvenida');
+    const anjinho = document.querySelector('.anjinho');
+    const federal = document.querySelector('.federal');
+    const rodaGigante = document.querySelector('.rodaGigante');
+    const cavalinho = document.querySelector('.cavalinho');
+    const carrosselPasseio = document.querySelector('.carrosselPasseio');
     
     let duration = 1,
       sections = gsap.utils.toArray(".scene"),
@@ -132,46 +137,50 @@ if (pinnedImageWrappers) {
       start: 'top',
     });
 
-    // gsap.to(logoSmall, {
-    //   position: 'absolute',
-    //   start: 'bottom'
-    // });
+    gsap.to(passeio, {
+      position: 'absolute',
+      start: 'top',
+    });
 
-    // gsap.to(passeio, {
-    //   position: 'absolute',
-    // });
+    gsap.to(parqueNautico, {
+      position: 'absolute',
+      start: 'top',
+    });
 
-    // gsap.to(parqueNautico, {
-    //   position: 'absolute',
-    // });
+    gsap.to(reiMago, {
+      position: 'absolute',
+      start: 'top',
+    });
 
-    // gsap.to(parqueTangua, {
-    //   position: 'absolute',
-    // });
+    gsap.to(palacioAvenida, {
+      position: 'absolute',
+      start: 'top',
+    });
 
-    // gsap.to(federal, {
-    //   position: 'absolute',
-    // });
+    gsap.to(anjinho, {
+      position: 'absolute',
+      start: 'top',
+    });
 
-    // gsap.to(escola, {
-    //   position: 'absolute',
-    // });
+    gsap.to(federal, {
+      position: 'absolute',
+      start: 'top',
+    });
 
-    // gsap.to(carrosselPasseio, {
-    //   position: 'absolute',
-    // });
+    gsap.to(rodaGigante, {
+      position: 'absolute',
+      start: 'top',
+    });
 
-    // gsap.to(memorialParanista, {
-    //   position: 'absolute',
-    // });
+    gsap.to(cavalinho, {
+      position: 'absolute',
+      start: 'top',
+    });
 
-    // gsap.to(musica, {
-    //   position: 'absolute',
-    // });
-
-    // gsap.to(palacioAvenida, {
-    //   position: 'absolute',
-    // });
+    gsap.to(carrosselPasseio, {
+      position: 'absolute',
+      start: 'top',
+    });
 
   });
 }

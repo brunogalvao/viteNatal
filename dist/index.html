@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/assets/vite.4a748afd.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Natal Curitiba - ViteJS</title>
+  <script type="module" crossorigin src="/assets/index.f8ed9c98.js"></script>
+  <link rel="stylesheet" href="/assets/index.ac961acb.css">
+</head>
+
+<body>
+
+  <div class="all-content">
+
+    <div class="cloud"></div>
+    <div class="cloud-animation"></div>
+
+    <div class="floor"></div>
+
+    <div class="araucaria">
+      <img src="/assets/araucaria.1d42b150.svg" />
+    </div>
+
+    <div class="arbustos">
+      <img src="/assets/arbustos.118e5862.svg" />
+    </div>
+
+    <section class="pinned-images content-wrapper">
+      <div class="content-inner">
+        <div class="scene-wrap js-wrap">
+          <div class="inner js-inner">
+
+            <div class="scene abertura" id="scene1">
+              <div class="fireworks-container"
+                style="background-size: cover; background-position: 50% 50%; background-repeat: no-repeat;">
+              </div>
+
+              <!-- logo     -->
+              <img class="logo" src="/assets/logo.fc5b0e89.png" />
+
+              <div class="texto d-flex justify-content-center flex-column align-items-center pt-3">
+                <div class="subtitulo text-center">É chegada a hora de comemorar. </div>
+                <p class="text-white text-center">Dar uma pausa na pressa, nas telas, nos compromissos e
+                  curtir um momento único e tão esperando o ano inteiro: <br> <b>o Natal</b>.</p>
+              </div>
+
+              <!-- <img src="img/botanico.png" alt="Jardim Botanico" /> -->
+
+              <img class="botanico" src="/assets/botanico.6e584caf.svg" />
+
+
+            </div>
+
+            <!-- scene 2 -->
+            <div class="scene d-flex flex-column" id="scene2">
+              <div class="texto topTexto d-flex justify-content-center flex-column align-items-center">
+
+                <div class="logoSmall"></div>
+
+
+                <div class="titulo text-white text-center fst-italic"> o Natal mais iluminado do Brasil
+                </div>
+
+                <!-- <div class="subtitulo">testando</div> -->
+
+                <p class="text-white text-center mt-4 mt-lg-0">Desde 2017, o Natal de Curitiba ganha as
+                  ruas e
+                  avenidas, praças e parques, assistido por milhares de pessoas todos os anos,
+                  tornando-se um evento internacional.</p>
+
+                <button class="btn-natal">saiba mais</button>
+              </div>
+
+              <img class="scene2" src="/assets/scene2.41dce8fa.svg" />
+
+              <img class="arvoreNatal" src="/assets/arvoreNatal.71f4adc9.svg" />
+            </div>
+
+            <!-- scene 3 -->
+            <div class="scene d-flex flex-column" id="scene2">
+              <div class="texto topTexto d-flex justify-content-center flex-column align-items-center">
+
+                <div class="logoSmall"></div>
+
+
+                <div class="titulo text-white text-center fst-italic"> Árvores de Natal
+                </div>
+
+                <!-- <div class="subtitulo">testando</div> -->
+
+                <p class="text-white text-center mt-4 mt-lg-0">Iluminam o Natal, ganham as ruas e avenidas, praças e parques, fazendo brilhar os olhos e o coração das pessoas.</p>
+
+                <button class="btn-natal">Acesse a programação
+                  do Circuito de Árvores</button>
+              </div>
+
+              <img class="scene3" src="/assets/scene3.b522b9be.svg" />
+            </div>
+
+
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- Fireworks -->
+  <script src="https://cdn.jsdelivr.net/npm/fireworks-js@latest/dist/fireworks.js"></script>
+
+  <script>
+      const container = document.querySelector('.fireworks-container')
+      const fireworks = new Fireworks(container, {
+          rocketsPoint: 50,
+          hue: { min: 15, max: 30 },
+          delay: { min: 15, max: 30 },
+          speed: 10,
+          acceleration: 1.2,
+          friction: 0.95,
+          gravity: 1.5,
+          particles: 90,
+          trace: 1,
+          explosion: 6,
+          intensity: 10,
+          autoresize: true,
+          brightness: {
+              min: 50,
+              max: 80,
+              decay: { min: 0.015, max: 0.03 }
+          },
+          mouse: {
+              click: false,
+              move: false,
+              // max: 3
+          },
+          boundaries: {
+              visible: false
+          },
+          sound: {
+              enable: true,
+              files: [
+                  'https://fireworks.js.org/sounds/explosion0.mp3',
+                  'https://fireworks.js.org/sounds/explosion1.mp3',
+                  'https://fireworks.js.org/sounds/explosion2.mp3'
+              ],
+              volume: { min: 1, max: 2 },
+          }
+      });
+      fireworks.start()
+  </script>
+
+
+
+  
+</body>
+
+</html>

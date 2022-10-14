@@ -21,7 +21,9 @@
   --natal: #DAA573;
   --fontPadrao: montserrat, sans-serif;
   --fontNatal: 'playfair-display', serif;
+  --alturaImg: 12rem;
 }
+
 
 .pt-3 {
   padding-top: 3rem;
@@ -142,7 +144,7 @@ body {
 
 .scene2 {
   width: auto;
-  height: 22rem;
+  height: var(--alturaImg);
   bottom: calc(var(--floor) - 3px);
 }
 
@@ -154,7 +156,68 @@ body {
 
 .scene3 {
   width: auto;
+  height: var(--alturaImg);
+  bottom: calc(var(--floor) - 3px);
+}
+
+.passeio {
+  width: auto;
+  height: var(--alturaImg);
+  bottom: calc(var(--floor) - 3px);
+}
+
+.parqueNautico {
+  width: 100%;
+  height: auto;
+  bottom: -36vw;
+}
+
+.reiMago {
+  z-index: 999;
+  bottom: calc(var(--floor) - 30px);
+  left: -24px;
+  height: 24rem;
+}
+
+.palacioAvenida {
+  width: 100%;
+  height: var(--alturaImg);
+  bottom: calc(var(--floor) - 3px);
+}
+
+.anjinho {
+  right: 0;
+  bottom: 0;
   height: 22rem;
+}
+
+.tangua, .federal {
+  width: 85%;
+  height: var(--alturaImg);
+  bottom: calc(var(--floor) - 3px);
+}
+
+.federal {
+  width: 85%;
+  height: calc(var(--alturaImg) - 54px);
+  bottom: calc(var(--floor) - 3px);
+}
+
+.rodaGigante {
+  width: auto;
+  height: 22rem;
+  bottom: calc(var(--floor) - 3px);
+  left: -40px;
+}
+
+.cavalinho {
+  bottom: 0;
+  right: -80px;
+}
+
+.carrosselPasseio {
+  width: auto;
+  height: var(--alturaImg);
   bottom: calc(var(--floor) - 3px);
 }
 
@@ -194,6 +257,18 @@ body {
   flex-direction: column;
 }
 
+.btn-natal.btn-2line {
+  height: auto;
+  max-width: 220px;
+  line-height: 1.4rem;
+}
+
+.btn-natal.btn-2line:before {
+  height: auto;
+  margin-top: 0.5rem;
+  display: flex;
+}
+
 .btn-natal:is(:hover) {
   filter: contrast(175%);
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
@@ -227,7 +302,7 @@ body {
   font-size: 1.43rem;
   line-height: 1.1;
   margin-bottom: .8rem;
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 .content-wrapper {
@@ -278,7 +353,7 @@ body {
 .abertura .botanico {
   position: absolute;
   width: 100%;
-  height: 22rem;
+  height: var(--alturaImg);
   bottom: calc(var(--floor) - 3px);
 }
 
@@ -298,8 +373,22 @@ body {
 
   .abertura .botanico,
   .scene2,
-  .scene3 {
+  .scene3,
+  .passeio {
     height: 12.8rem;
+  }
+
+  .palacioAvenida {
+    width: 82%;
+    height: 11rem;
+  }
+
+  .scene2 {
+    left: 2px;
+  }
+
+  .scene3 {
+    right: 12px;
   }
 
   .abertura .logo {
@@ -313,12 +402,62 @@ body {
   .texto {
     width: 78%;
     font-size: .9rem;
-    line-height: 1rem;
+    line-height: 1.2;
+  }
+
+  .titulo {
+    line-height: 1.01;
   }
 
   .arvoreNatal {
     height: 28rem;
   }
+
+  .passeio {
+    height: auto;
+    width: 82%;
+  }
+
+  .parqueNautico {
+    width: 100%;
+    height: auto;
+    bottom: -68px;
+  }
+
+  .reiMago {
+    height: 1rem;
+  }
+
+  .anjinho {
+    right: -80px;
+  }
+
+  .tangua {
+    width: 85%;
+    height: calc(var(--alturaImg) - 61px);
+    bottom: calc(var(--floor) - 3px);
+  }
+
+  .federal {
+    height: calc(var(--alturaImg) - 92px);
+  }
+
+  .rodaGigante {
+    height: 18rem;
+  }
+
+  .cavalinho {
+    bottom: 0;
+    right: -120px;
+    z-index: 99;
+  }
+  
+  .carrosselPasseio {
+    width: 85%;
+    height: cal(var(--alturaImg) - 32px);
+    bottom: calc(var(--floor) - 3px);
+  }
+  
 }
 
 /* tablet*/
@@ -326,3 +465,16 @@ body {
 
 /* desktop */
 @media screen and (min-width: 1024px) {}
+
+
+/* @media screen and (max-height: 1440px){
+  :root {
+    --alturaImg: 12rem;
+  }
+}
+
+@media screen and (min-height: 1441px){
+  :root {
+    --alturaImg: 18rem;
+  }
+} */
