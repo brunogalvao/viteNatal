@@ -31,6 +31,9 @@ if (pinnedImageWrappers) {
     const arbustos = document.querySelector('.arbustos');
     const cloud = document.querySelector('.cloud');
     const cloudAnimation = document.querySelector('.cloud-animation');
+    const scene2 = document.querySelector('.scene2');
+    const arvoreNatal = document.querySelector('.arvoreNatal');
+    const scene3 = document.querySelector('.scene3');
     
     let duration = 1,
       sections = gsap.utils.toArray(".scene"),
@@ -111,6 +114,21 @@ if (pinnedImageWrappers) {
 
     gsap.to(cloudAnimation, {
       position: 'fixed',
+      start: 'top',
+    });
+
+    gsap.to(scene2, {
+      position: 'absolute',
+      start: 'top',
+    });
+
+    gsap.to(arvoreNatal, {
+      position: 'absolute',
+      start: 'top',
+    });
+
+    gsap.to(scene3, {
+      position: 'absolute',
       start: 'top',
     });
 

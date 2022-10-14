@@ -1,429 +1,440 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="348.051" height="190.21" viewBox="0 0 348.051 190.21">
-  <g id="Grupo_1" data-name="Grupo 1" transform="translate(-0.759 -2.42)">
-    <path id="Caminho_1" data-name="Caminho 1" d="M348.27,192.05H1.3V131.22l.13-1.84c1.91-21.21,20.15-38.49,43.94-42.57V44.4a43.168,43.168,0,0,1,86.27,0h.01a43.173,43.173,0,0,1,86.28,0h0a43.173,43.173,0,0,1,86.28,0V86.81c23.79,4.08,42.03,21.36,43.94,42.57h.13v62.67Z" fill="#6f2033"/>
-    <path id="Caminho_2" data-name="Caminho 2" d="M23.87,159.72a32.34,32.34,0,1,1,64.68,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_3" data-name="Caminho 3" d="M34.65,159.72a21.56,21.56,0,0,1,43.12,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_4" data-name="Caminho 4" d="M45.43,159.72a10.77,10.77,0,1,1,21.54,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_5" data-name="Caminho 5" d="M50.82,159.72a5.39,5.39,0,1,1,10.78,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <rect id="Retângulo_1" data-name="Retângulo 1" width="64.69" height="64.69" transform="translate(23.87 127.36)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_1" data-name="Linha 1" x1="64.69" transform="translate(23.87 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_2" data-name="Linha 2" y2="32.41" transform="translate(23.87 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_3" data-name="Linha 3" y2="32.41" transform="translate(34.65 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_4" data-name="Linha 4" y2="32.41" transform="translate(45.43 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_5" data-name="Linha 5" y2="64.72" transform="translate(56.22 127.41)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_6" data-name="Linha 6" y2="64.72" transform="translate(110.09 127.41)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_7" data-name="Linha 7" y2="32.41" transform="translate(66.99 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_8" data-name="Linha 8" y2="32.41" transform="translate(77.78 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_9" data-name="Linha 9" y2="32.41" transform="translate(88.56 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_10" data-name="Linha 10" x1="64.69" transform="translate(23.87 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_11" data-name="Linha 11" x1="64.69" transform="translate(23.87 170.49)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_12" data-name="Linha 12" x1="64.69" transform="translate(23.87 181.28)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_6" data-name="Caminho 6" d="M23.87,159.72c0-17.86-5.06-31.48-11.29-30.41S1.3,144.84,1.3,161.66" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_7" data-name="Caminho 7" d="M20.1,160.04c0-11.8-3.37-20.86-7.52-20.28-4.16.6-7.52,10.25-7.52,21.56" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_8" data-name="Caminho 8" d="M16.34,160.36c0-5.83-1.69-10.38-3.76-10.13-2.07.23-3.76,5.06-3.76,10.77" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_9" data-name="Caminho 9" d="M1.3,192.05H23.87V127.36L1.3,131.23Z" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_13" data-name="Linha 13" y1="1.92" x2="22.57" transform="translate(1.3 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_14" data-name="Linha 14" y2="32.41" transform="translate(23.87 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_15" data-name="Linha 15" y2="32.09" transform="translate(20.1 160.04)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_16" data-name="Linha 16" y2="31.77" transform="translate(16.34 160.36)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_17" data-name="Linha 17" y2="62.8" transform="translate(12.58 129.33)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_18" data-name="Linha 18" y2="31.13" transform="translate(8.82 161)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_19" data-name="Linha 19" y2="30.81" transform="translate(5.06 161.32)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_20" data-name="Linha 20" y2="30.49" transform="translate(1.3 161.64)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_21" data-name="Linha 21" y1="1.92" x2="22.57" transform="translate(1.3 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_22" data-name="Linha 22" y1="1.3" x2="22.57" transform="translate(1.3 170.49)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_23" data-name="Linha 23" y1="0.64" x2="22.57" transform="translate(1.3 181.28)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <rect id="Retângulo_2" data-name="Retângulo 2" width="43.13" height="64.69" transform="translate(88.53 127.36)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_10" data-name="Caminho 10" d="M88.53,148.93a21.56,21.56,0,0,1,43.12,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_11" data-name="Caminho 11" d="M99.3,148.93a10.77,10.77,0,0,1,21.54,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_24" data-name="Linha 24" y2="43.14" transform="translate(99.3 148.93)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_25" data-name="Linha 25" y2="43.14" transform="translate(120.87 148.93)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_26" data-name="Linha 26" y2="41.51" transform="translate(110.09 85.9)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_27" data-name="Linha 27" x1="43.13" transform="translate(88.53 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_28" data-name="Linha 28" x1="43.13" transform="translate(88.53 170.49)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_29" data-name="Linha 29" x1="43.13" transform="translate(88.53 181.28)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_30" data-name="Linha 30" y2="32.2" transform="translate(174.8 127.41)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <rect id="Retângulo_3" data-name="Retângulo 3" width="43.13" height="64.69" transform="translate(153.23 127.36)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_12" data-name="Caminho 12" d="M153.23,148.93a21.56,21.56,0,0,1,43.12,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_13" data-name="Caminho 13" d="M164.01,148.93a10.77,10.77,0,0,1,21.54,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_31" data-name="Linha 31" y2="10.84" transform="translate(164.01 148.93)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_32" data-name="Linha 32" y2="10.84" transform="translate(185.57 148.93)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_33" data-name="Linha 33" x1="43.12" transform="translate(153.23 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_34" data-name="Linha 34" y1="41.24" transform="translate(88.53 86.12)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_35" data-name="Linha 35" x1="32.35" transform="translate(88.53 85.9)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_14" data-name="Caminho 14" d="M120.84,41.94C119.2,20.02,105.35,2.92,88.51,2.92S57.8,20.04,56.17,41.94Z" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_15" data-name="Caminho 15" d="M120.87,58.14a16.17,16.17,0,0,0-32.34,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_16" data-name="Caminho 16" d="M93.92,58.14a10.77,10.77,0,1,1,21.54,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_36" data-name="Linha 36" y2="43.96" transform="translate(120.87 41.94)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_37" data-name="Linha 37" x1="32.35" transform="translate(88.53 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_38" data-name="Linha 38" x1="32.35" transform="translate(88.53 71.75)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_39" data-name="Linha 39" y2="27.76" transform="translate(88.53 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_40" data-name="Linha 40" y2="27.76" transform="translate(93.92 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_41" data-name="Linha 41" y2="43.87" transform="translate(104.7 42.03)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_42" data-name="Linha 42" y2="27.76" transform="translate(115.49 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_43" data-name="Linha 43" y1="30.22" transform="translate(88.53 55.44)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_17" data-name="Caminho 17" d="M83.09,58.14a10.78,10.78,0,0,0-21.56,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_44" data-name="Linha 44" x2="32.36" transform="translate(56.12 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_45" data-name="Linha 45" x2="32.36" transform="translate(56.12 71.75)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_46" data-name="Linha 46" y2="27.76" transform="translate(83.09 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_47" data-name="Linha 47" y2="43.87" transform="translate(72.3 42.03)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_48" data-name="Linha 48" y2="27.76" transform="translate(61.53 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_18" data-name="Caminho 18" d="M99.35,41.94C98.79,20.02,94.16,2.92,88.51,2.92S78.22,20.04,77.68,41.94" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_19" data-name="Caminho 19" d="M56.12,58.14c0-8.94-2.41-15.08-5.38-13.75-2.97,1.3-5.38,8.75-5.38,16.65" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_20" data-name="Caminho 20" d="M47.15,60.57c0-5.38,1.6-10.35,3.59-11.1,1.98-.77,3.59,3.34,3.59,9.17" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_49" data-name="Linha 49" x1="10.76" y2="2.9" transform="translate(45.36 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_50" data-name="Linha 50" x1="10.76" y2="1.45" transform="translate(45.36 71.75)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_51" data-name="Linha 51" y1="27.76" transform="translate(56.12 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_21" data-name="Caminho 21" d="M45.36,86.77" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_22" data-name="Caminho 22" d="M45.36,44.39" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_52" data-name="Linha 52" y2="25.97" transform="translate(47.15 60.57)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_53" data-name="Linha 53" y2="41.78" transform="translate(50.74 44.39)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_54" data-name="Linha 54" y2="27.27" transform="translate(54.32 58.63)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_23" data-name="Caminho 23" d="M120.88,58.14c0-8.94,2.41-15.08,5.38-13.75,2.97,1.3,5.38,8.75,5.38,16.65" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_24" data-name="Caminho 24" d="M129.86,60.57c0-5.38-1.6-10.35-3.59-11.1-1.98-.77-3.59,3.34-3.59,9.17" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_55" data-name="Linha 55" x2="10.78" y2="2.9" transform="translate(120.88 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_56" data-name="Linha 56" x2="10.78" y2="1.45" transform="translate(120.88 71.75)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_25" data-name="Caminho 25" d="M131.66,61.04V85.9H120.88V58.14" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_57" data-name="Linha 57" y2="25.33" transform="translate(129.86 60.57)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_58" data-name="Linha 58" y2="41.67" transform="translate(126.28 44.23)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_59" data-name="Linha 59" y2="27.27" transform="translate(122.69 58.63)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_26" data-name="Caminho 26" d="M120.87,85.9" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_60" data-name="Linha 60" x1="10.79" y1="2.46" transform="translate(120.87 41.94)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_27" data-name="Caminho 27" d="M131.66,83.62" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_61" data-name="Linha 61" x1="32.35" transform="translate(56.13 85.9)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_28" data-name="Caminho 28" d="M56.13,58.14a16.17,16.17,0,0,1,32.34,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_62" data-name="Linha 62" y1="2.46" x2="10.81" transform="translate(45.36 41.94)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_29" data-name="Caminho 29" d="M131.64,44.39" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_30" data-name="Caminho 30" d="M56.22,85.91c-17.45,0-31.67,18.43-32.34,41.5" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_63" data-name="Linha 63" y2="41.58" transform="translate(131.66 85.9)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_64" data-name="Linha 64" y2="41.58" transform="translate(174.8 85.9)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_65" data-name="Linha 65" y2="41.58" transform="translate(217.9 85.9)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_66" data-name="Linha 66" y2="43.96" transform="translate(56.13 41.94)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_31" data-name="Caminho 31" d="M56.22,85.91c-17.45,0-31.67,18.43-32.34,41.5" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_32" data-name="Caminho 32" d="M66.96,85.93c-11.65,0-21.14,18.41-21.59,41.48" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_33" data-name="Caminho 33" d="M77.71,85.93c-5.9,0-10.73,18.41-10.95,41.48" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_34" data-name="Caminho 34" d="M56.17,85.9c-25.68,0-46.6,19.6-47.59,44.1" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_35" data-name="Caminho 35" d="M56.17,85.9c-21.62,0-39.25,19.03-40.08,42.85" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_67" data-name="Linha 67" x2="104.5" transform="translate(27.17 109.92)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_68" data-name="Linha 68" x2="106.16" transform="translate(25.51 115.35)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_69" data-name="Linha 69" x2="107.27" transform="translate(24.4 121.31)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_70" data-name="Linha 70" x2="102.32" transform="translate(29.35 105.06)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_71" data-name="Linha 71" x2="99.87" transform="translate(31.8 100.71)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_72" data-name="Linha 72" x2="97.03" transform="translate(34.64 96.92)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_73" data-name="Linha 73" x2="93.98" transform="translate(37.69 93.67)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_74" data-name="Linha 74" x2="90.59" transform="translate(41.08 90.96)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_75" data-name="Linha 75" x2="87.12" transform="translate(44.55 88.78)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_76" data-name="Linha 76" x2="83.19" transform="translate(48.48 87.17)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_77" data-name="Linha 77" x1="22.4" y2="3.87" transform="translate(2.02 121.31)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_78" data-name="Linha 78" x1="21.9" y2="3.86" transform="translate(3.66 115.35)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_79" data-name="Linha 79" x1="21.16" y2="3.87" transform="translate(6.03 109.92)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_80" data-name="Linha 80" x1="20.37" y2="3.84" transform="translate(8.98 105.06)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_81" data-name="Linha 81" x1="19.39" y2="3.86" transform="translate(12.41 100.71)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_82" data-name="Linha 82" x1="18.53" y2="3.86" transform="translate(16.11 96.92)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_83" data-name="Linha 83" x1="17.6" y2="3.86" transform="translate(20.07 93.67)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_84" data-name="Linha 84" x1="17.05" y2="3.86" transform="translate(24.01 90.96)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_85" data-name="Linha 85" x1="16.77" y2="3.87" transform="translate(27.83 88.78)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_86" data-name="Linha 86" x1="17.19" y2="3.84" transform="translate(31.26 87.17)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_87" data-name="Linha 87" x2="28.55" transform="translate(59.89 25.62)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_88" data-name="Linha 88" x2="30.28" transform="translate(58.16 30.7)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_89" data-name="Linha 89" x2="31.55" transform="translate(56.89 36.28)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_90" data-name="Linha 90" x2="26.39" transform="translate(62.05 21.06)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_91" data-name="Linha 91" x2="23.9" transform="translate(64.53 16.99)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_92" data-name="Linha 92" x2="21.16" transform="translate(67.27 13.45)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_93" data-name="Linha 93" x2="18.27" transform="translate(70.17 10.4)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_94" data-name="Linha 94" x2="15" transform="translate(73.44 7.86)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_95" data-name="Linha 95" x2="11.68" transform="translate(76.76 5.84)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_96" data-name="Linha 96" x2="8.21" transform="translate(80.23 4.31)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_97" data-name="Linha 97" y1="2.48" x2="10.89" transform="translate(45.98 36.25)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_98" data-name="Linha 98" y1="2.47" x2="10.89" transform="translate(47.25 30.7)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_99" data-name="Linha 99" y1="2.48" x2="10.66" transform="translate(49.26 25.62)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_100" data-name="Linha 100" y1="2.48" x2="10.45" transform="translate(51.64 21.06)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_101" data-name="Linha 101" y1="2.48" x2="10.06" transform="translate(54.48 16.99)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_102" data-name="Linha 102" y1="2.48" x2="9.66" transform="translate(57.65 13.45)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_103" data-name="Linha 103" y1="2.48" x2="9.27" transform="translate(60.93 10.4)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_104" data-name="Linha 104" y1="2.48" x2="9.18" transform="translate(64.24 7.86)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_105" data-name="Linha 105" y1="2.48" x2="9.18" transform="translate(67.68 5.84)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_106" data-name="Linha 106" x1="28.58" transform="translate(88.44 25.62)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_107" data-name="Linha 107" x1="30.33" transform="translate(88.44 30.7)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_108" data-name="Linha 108" x1="31.6" transform="translate(88.44 36.28)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_109" data-name="Linha 109" x1="26.43" transform="translate(88.43 21.06)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_110" data-name="Linha 110" x1="23.94" transform="translate(88.44 16.99)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_111" data-name="Linha 111" x1="21.2" transform="translate(88.44 13.45)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_112" data-name="Linha 112" x1="18.29" transform="translate(88.43 10.4)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_113" data-name="Linha 113" x1="15.02" transform="translate(88.44 7.86)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_114" data-name="Linha 114" x1="11.69" transform="translate(88.44 5.84)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_115" data-name="Linha 115" x1="8.21" transform="translate(88.44 4.31)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_116" data-name="Linha 116" x1="10.91" y1="2.48" transform="translate(120.05 36.25)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_117" data-name="Linha 117" x1="10.92" y1="2.47" transform="translate(118.78 30.7)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_118" data-name="Linha 118" x1="10.68" y1="2.48" transform="translate(117 25.62)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_119" data-name="Linha 119" x1="10.48" y1="2.48" transform="translate(114.82 21.06)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_120" data-name="Linha 120" x1="10.09" y1="2.48" transform="translate(112.37 16.99)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_121" data-name="Linha 121" x1="9.68" y1="2.48" transform="translate(109.6 13.45)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_122" data-name="Linha 122" x1="9.31" y1="2.48" transform="translate(106.69 10.4)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_123" data-name="Linha 123" x1="9.2" y1="2.48" transform="translate(103.47 7.86)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_124" data-name="Linha 124" x1="9.19" y1="2.48" transform="translate(100.03 5.84)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_36" data-name="Caminho 36" d="M207.12,41.94c-1.63-21.91-15.48-39.02-32.34-39.02s-30.71,17.12-32.34,39.02Z" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_37" data-name="Caminho 37" d="M207.15,58.14a16.17,16.17,0,0,0-32.34,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_38" data-name="Caminho 38" d="M180.21,58.14a10.77,10.77,0,1,1,21.54,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_125" data-name="Linha 125" y2="43.96" transform="translate(207.15 41.94)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_126" data-name="Linha 126" x1="32.36" transform="translate(174.81 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_127" data-name="Linha 127" x1="32.36" transform="translate(174.81 71.75)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_128" data-name="Linha 128" y2="27.76" transform="translate(174.81 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_129" data-name="Linha 129" y2="27.76" transform="translate(180.21 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_130" data-name="Linha 130" y2="43.87" transform="translate(190.98 42.03)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_131" data-name="Linha 131" y2="27.76" transform="translate(201.76 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_132" data-name="Linha 132" y1="62.33" transform="translate(174.81 3.17)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_39" data-name="Caminho 39" d="M169.37,58.14a10.77,10.77,0,1,0-21.54,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_133" data-name="Linha 133" x2="32.37" transform="translate(142.4 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_134" data-name="Linha 134" x2="32.37" transform="translate(142.4 71.75)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_135" data-name="Linha 135" y2="27.76" transform="translate(174.76 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_136" data-name="Linha 136" y2="27.76" transform="translate(169.37 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_137" data-name="Linha 137" y2="43.87" transform="translate(158.59 42.03)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_138" data-name="Linha 138" y2="27.76" transform="translate(147.81 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_40" data-name="Caminho 40" d="M185.63,41.94c-.55-21.91-5.19-39.02-10.83-39.02s-10.29,17.12-10.83,39.02" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_41" data-name="Caminho 41" d="M207.17,58.14c0-8.94,2.41-15.08,5.38-13.75,2.97,1.3,5.38,8.75,5.38,16.65" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_42" data-name="Caminho 42" d="M216.15,60.57c0-5.38-1.6-10.35-3.59-11.1-1.98-.77-3.59,3.34-3.59,9.17" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_139" data-name="Linha 139" x2="10.77" y2="2.9" transform="translate(207.17 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_140" data-name="Linha 140" x2="10.77" y2="1.45" transform="translate(207.17 71.75)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_43" data-name="Caminho 43" d="M217.94,61.04V85.9H207.17V58.14" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_141" data-name="Linha 141" y2="25.33" transform="translate(216.15 60.57)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_142" data-name="Linha 142" y2="41.67" transform="translate(212.56 44.23)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_143" data-name="Linha 143" y2="27.27" transform="translate(208.97 58.63)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_44" data-name="Caminho 44" d="M217.94,83.62" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_144" data-name="Linha 144" x2="10.79" y2="2.46" transform="translate(207.15 41.94)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_45" data-name="Caminho 45" d="M142.42,41.94V85.9h64.73" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_46" data-name="Caminho 46" d="M142.42,58.14c0-8.94-2.41-15.08-5.38-13.75-2.97,1.3-5.38,8.75-5.38,16.65" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_47" data-name="Caminho 47" d="M133.43,60.57c0-5.38,1.6-10.35,3.59-11.1,1.98-.77,3.59,3.34,3.59,9.17" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_145" data-name="Linha 145" x1="10.78" y2="2.9" transform="translate(131.64 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_146" data-name="Linha 146" x1="10.78" y2="1.45" transform="translate(131.64 71.75)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_147" data-name="Linha 147" x2="10.78" transform="translate(131.64 85.9)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_48" data-name="Caminho 48" d="M131.64,61.04" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_148" data-name="Linha 148" y2="25.33" transform="translate(133.43 60.57)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_149" data-name="Linha 149" y2="41.67" transform="translate(137.04 44.23)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_150" data-name="Linha 150" y2="27.27" transform="translate(140.62 58.63)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_49" data-name="Caminho 49" d="M142.43,85.9" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_151" data-name="Linha 151" y1="2.46" x2="10.79" transform="translate(131.64 41.94)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_50" data-name="Caminho 50" d="M131.64,85.9" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_51" data-name="Caminho 51" d="M142.42,58.14a16.17,16.17,0,0,1,32.34,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_52" data-name="Caminho 52" d="M217.93,44.39" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_152" data-name="Linha 152" x2="28.55" transform="translate(146.18 25.62)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_153" data-name="Linha 153" x2="30.27" transform="translate(144.44 30.7)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_154" data-name="Linha 154" x2="31.54" transform="translate(143.17 36.28)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_155" data-name="Linha 155" x2="26.39" transform="translate(148.34 21.06)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_156" data-name="Linha 156" x2="23.9" transform="translate(150.81 16.99)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_157" data-name="Linha 157" x2="21.15" transform="translate(153.56 13.45)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_158" data-name="Linha 158" x2="18.25" transform="translate(156.46 10.4)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_159" data-name="Linha 159" x2="14.99" transform="translate(159.72 7.86)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_160" data-name="Linha 160" x2="11.66" transform="translate(163.05 5.84)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_161" data-name="Linha 161" x2="8.19" transform="translate(166.52 4.31)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_162" data-name="Linha 162" y1="2.48" x2="10.89" transform="translate(132.27 36.25)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_163" data-name="Linha 163" y1="2.47" x2="10.89" transform="translate(133.54 30.7)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_164" data-name="Linha 164" y1="2.48" x2="10.66" transform="translate(135.55 25.62)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_165" data-name="Linha 165" y1="2.48" x2="10.45" transform="translate(137.93 21.06)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_166" data-name="Linha 166" y1="2.48" x2="10.06" transform="translate(140.77 16.99)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_167" data-name="Linha 167" y1="2.48" x2="9.67" transform="translate(143.93 13.45)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_168" data-name="Linha 168" y1="2.48" x2="9.28" transform="translate(147.21 10.4)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_169" data-name="Linha 169" y1="2.48" x2="9.19" transform="translate(150.52 7.86)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_170" data-name="Linha 170" y1="2.48" x2="9.19" transform="translate(153.96 5.84)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_171" data-name="Linha 171" x1="28.59" transform="translate(174.71 25.62)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_172" data-name="Linha 172" x1="30.32" transform="translate(174.73 30.7)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_173" data-name="Linha 173" x1="31.59" transform="translate(174.73 36.28)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_174" data-name="Linha 174" x1="26.44" transform="translate(174.71 21.06)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_175" data-name="Linha 175" x1="23.96" transform="translate(174.71 16.99)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_176" data-name="Linha 176" x1="21.2" transform="translate(174.71 13.45)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_177" data-name="Linha 177" x1="18.28" transform="translate(174.73 10.4)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_178" data-name="Linha 178" x1="15.01" transform="translate(174.73 7.86)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_179" data-name="Linha 179" x1="11.69" transform="translate(174.73 5.84)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_180" data-name="Linha 180" x1="8.22" transform="translate(174.71 4.31)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_181" data-name="Linha 181" x1="10.9" y1="2.48" transform="translate(206.34 36.25)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_182" data-name="Linha 182" x1="10.92" y1="2.47" transform="translate(205.07 30.7)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_183" data-name="Linha 183" x1="10.67" y1="2.48" transform="translate(203.29 25.62)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_184" data-name="Linha 184" x1="10.48" y1="2.48" transform="translate(201.1 21.06)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_185" data-name="Linha 185" x1="10.08" y1="2.48" transform="translate(198.65 16.99)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_186" data-name="Linha 186" x1="9.68" y1="2.48" transform="translate(195.88 13.45)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_187" data-name="Linha 187" x1="9.3" y1="2.48" transform="translate(192.98 10.4)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_188" data-name="Linha 188" x1="9.2" y1="2.48" transform="translate(189.76 7.86)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_189" data-name="Linha 189" x1="9.18" y1="2.48" transform="translate(186.32 5.84)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_53" data-name="Caminho 53" d="M131.66,138.15a10.78,10.78,0,0,1,21.56,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <rect id="Retângulo_4" data-name="Retângulo 4" width="21.56" height="64.69" transform="translate(131.66 127.36)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_190" data-name="Linha 190" y1="64.69" transform="translate(142.45 127.36)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_191" data-name="Linha 191" x2="21.57" transform="translate(131.66 148.93)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_192" data-name="Linha 192" x2="21.57" transform="translate(131.66 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_193" data-name="Linha 193" x2="21.57" transform="translate(131.66 170.49)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_194" data-name="Linha 194" x2="21.57" transform="translate(131.66 181.28)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_195" data-name="Linha 195" x2="21.57" transform="translate(131.66 138.15)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_54" data-name="Caminho 54" d="M196.36,138.15a10.77,10.77,0,1,1,21.54,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <rect id="Retângulo_5" data-name="Retângulo 5" width="21.56" height="64.69" transform="translate(196.36 127.36)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_196" data-name="Linha 196" y1="64.69" transform="translate(207.15 127.36)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_197" data-name="Linha 197" x2="21.58" transform="translate(196.36 148.93)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_198" data-name="Linha 198" x2="21.58" transform="translate(196.36 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_199" data-name="Linha 199" x2="21.58" transform="translate(196.36 170.49)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_200" data-name="Linha 200" x2="21.58" transform="translate(196.36 181.28)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_201" data-name="Linha 201" x2="21.58" transform="translate(196.36 138.15)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_202" data-name="Linha 202" x1="43.13" transform="translate(88.53 148.93)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_55" data-name="Caminho 55" d="M325.7,159.72a32.34,32.34,0,0,0-64.68,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_56" data-name="Caminho 56" d="M314.91,159.72a21.56,21.56,0,0,0-43.12,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_57" data-name="Caminho 57" d="M304.14,159.72a10.77,10.77,0,1,0-21.54,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <rect id="Retângulo_6" data-name="Retângulo 6" width="64.69" height="64.69" transform="translate(261.01 127.36)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_203" data-name="Linha 203" x2="64.69" transform="translate(261.01 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_204" data-name="Linha 204" y2="32.41" transform="translate(325.7 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_205" data-name="Linha 205" y2="32.41" transform="translate(314.91 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_206" data-name="Linha 206" y2="32.41" transform="translate(304.14 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_207" data-name="Linha 207" y2="64.72" transform="translate(293.35 127.41)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_208" data-name="Linha 208" y2="64.72" transform="translate(239.48 127.41)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_209" data-name="Linha 209" y2="32.41" transform="translate(282.58 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_210" data-name="Linha 210" y2="32.41" transform="translate(271.79 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_211" data-name="Linha 211" y2="32.41" transform="translate(261.01 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_212" data-name="Linha 212" x2="64.69" transform="translate(261.01 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_213" data-name="Linha 213" x2="64.69" transform="translate(261.01 170.49)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_214" data-name="Linha 214" x2="64.69" transform="translate(261.01 181.28)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_58" data-name="Caminho 58" d="M325.7,159.72c0-17.86,5.06-31.48,11.29-30.41s11.29,15.54,11.29,32.35" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_59" data-name="Caminho 59" d="M329.46,160.04c0-11.8,3.37-20.86,7.52-20.28,4.16.6,7.52,10.25,7.52,21.56" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_60" data-name="Caminho 60" d="M333.23,160.36c0-5.83,1.69-10.38,3.76-10.13,2.07.23,3.76,5.06,3.76,10.77" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_61" data-name="Caminho 61" d="M348.27,192.05H325.7V127.36l22.57,3.87Z" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_215" data-name="Linha 215" x1="22.57" y1="1.92" transform="translate(325.7 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_216" data-name="Linha 216" y2="32.41" transform="translate(325.7 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_217" data-name="Linha 217" y2="32.09" transform="translate(329.46 160.04)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_218" data-name="Linha 218" y2="31.77" transform="translate(333.23 160.36)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_219" data-name="Linha 219" y2="62.8" transform="translate(336.99 129.33)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_220" data-name="Linha 220" y2="31.13" transform="translate(340.75 161)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_221" data-name="Linha 221" y2="30.81" transform="translate(344.51 161.32)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_222" data-name="Linha 222" y2="30.49" transform="translate(348.27 161.64)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_223" data-name="Linha 223" x1="22.57" y1="1.92" transform="translate(325.7 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_224" data-name="Linha 224" x1="22.57" y1="1.3" transform="translate(325.7 170.49)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_225" data-name="Linha 225" x1="22.57" y1="0.64" transform="translate(325.7 181.28)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <rect id="Retângulo_7" data-name="Retângulo 7" width="43.13" height="64.69" transform="translate(217.91 127.36)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_62" data-name="Caminho 62" d="M261.04,148.93a21.56,21.56,0,0,0-43.12,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_63" data-name="Caminho 63" d="M250.27,148.93a10.77,10.77,0,0,0-21.54,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_226" data-name="Linha 226" y2="43.14" transform="translate(250.27 148.93)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_227" data-name="Linha 227" y2="43.14" transform="translate(228.7 148.93)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_228" data-name="Linha 228" y2="41.51" transform="translate(239.48 85.9)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_229" data-name="Linha 229" x2="43.13" transform="translate(217.91 159.72)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_230" data-name="Linha 230" x2="43.13" transform="translate(217.91 170.49)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_231" data-name="Linha 231" x2="43.13" transform="translate(217.91 181.28)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_232" data-name="Linha 232" y1="41.24" transform="translate(261.04 86.12)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_233" data-name="Linha 233" x2="32.35" transform="translate(228.69 85.9)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_64" data-name="Caminho 64" d="M228.72,41.94c1.63-21.91,15.48-39.02,32.34-39.02s30.71,17.12,32.34,39.02Z" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_65" data-name="Caminho 65" d="M228.7,58.14a16.17,16.17,0,0,1,32.34,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_66" data-name="Caminho 66" d="M255.65,58.14a10.77,10.77,0,1,0-21.54,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_234" data-name="Linha 234" y2="43.96" transform="translate(228.7 41.94)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_235" data-name="Linha 235" x2="32.35" transform="translate(228.69 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_236" data-name="Linha 236" x2="32.35" transform="translate(228.69 71.75)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_237" data-name="Linha 237" y2="27.76" transform="translate(261.04 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_238" data-name="Linha 238" y2="27.76" transform="translate(255.65 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_239" data-name="Linha 239" y2="43.87" transform="translate(244.87 42.03)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_240" data-name="Linha 240" y2="27.76" transform="translate(234.08 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_67" data-name="Caminho 67" d="M266.48,58.14a10.77,10.77,0,1,1,21.54,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_241" data-name="Linha 241" x1="32.37" transform="translate(261.08 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_242" data-name="Linha 242" x1="32.37" transform="translate(261.08 71.75)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_243" data-name="Linha 243" y2="27.76" transform="translate(266.48 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_244" data-name="Linha 244" y2="43.87" transform="translate(277.27 42.03)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_245" data-name="Linha 245" y2="27.76" transform="translate(288.04 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_68" data-name="Caminho 68" d="M250.22,41.94c.55-21.91,5.19-39.02,10.83-39.02s10.29,17.12,10.83,39.02" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_69" data-name="Caminho 69" d="M293.45,58.14c0-8.94,2.41-15.08,5.38-13.75,2.97,1.3,5.38,8.75,5.38,16.65" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_70" data-name="Caminho 70" d="M302.42,60.57c0-5.38-1.6-10.35-3.59-11.1-1.98-.77-3.59,3.34-3.59,9.17" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_246" data-name="Linha 246" x2="10.76" y2="2.9" transform="translate(293.45 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_247" data-name="Linha 247" x2="10.76" y2="1.45" transform="translate(293.45 71.75)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_248" data-name="Linha 248" y1="27.76" transform="translate(293.45 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_249" data-name="Linha 249" y2="25.97" transform="translate(302.42 60.57)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_250" data-name="Linha 250" y2="41.78" transform="translate(298.83 44.39)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_251" data-name="Linha 251" y2="27.27" transform="translate(295.25 58.63)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_71" data-name="Caminho 71" d="M228.69,58.14c0-8.94-2.41-15.08-5.38-13.75-2.97,1.3-5.38,8.75-5.38,16.65" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_72" data-name="Caminho 72" d="M219.71,60.57c0-5.38,1.6-10.35,3.59-11.1,1.98-.77,3.59,3.34,3.59,9.17" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_252" data-name="Linha 252" x1="10.78" y2="2.9" transform="translate(217.91 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_253" data-name="Linha 253" x1="10.78" y2="1.45" transform="translate(217.91 71.75)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_254" data-name="Linha 254" x2="10.76" transform="translate(217.91 85.9)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_73" data-name="Caminho 73" d="M217.91,61.04" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_255" data-name="Linha 255" y2="25.33" transform="translate(219.71 60.57)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_256" data-name="Linha 256" y2="41.67" transform="translate(223.29 44.23)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_257" data-name="Linha 257" y2="27.27" transform="translate(226.88 58.63)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_74" data-name="Caminho 74" d="M228.7,85.9" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_258" data-name="Linha 258" y1="2.46" x2="10.79" transform="translate(217.91 41.94)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_75" data-name="Caminho 75" d="M217.91,83.62" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_259" data-name="Linha 259" x2="32.37" transform="translate(261.07 85.9)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_76" data-name="Caminho 76" d="M293.44,58.14a16.17,16.17,0,1,0-32.34,0" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_260" data-name="Linha 260" x1="10.82" y1="2.46" transform="translate(293.39 41.94)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_77" data-name="Caminho 77" d="M217.93,44.39" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_78" data-name="Caminho 78" d="M293.35,85.91c17.45,0,31.67,18.43,32.34,41.5" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_261" data-name="Linha 261" y2="43.96" transform="translate(293.44 41.94)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_79" data-name="Caminho 79" d="M293.35,85.91c17.45,0,31.67,18.43,32.34,41.5" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_80" data-name="Caminho 80" d="M293.39,85.9c29.61,0,53.74,20.12,54.89,45.3" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_81" data-name="Caminho 81" d="M282.6,85.93c11.65,0,21.14,18.41,21.59,41.48" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_82" data-name="Caminho 82" d="M271.86,85.93c5.9,0,10.73,18.41,10.95,41.48" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_83" data-name="Caminho 83" d="M293.39,85.9c25.68,0,46.6,19.6,47.59,44.1" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <path id="Caminho_84" data-name="Caminho 84" d="M293.39,85.9c21.62,0,39.25,19.03,40.08,42.85" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_262" data-name="Linha 262" x1="104.49" transform="translate(217.9 109.92)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_263" data-name="Linha 263" x1="106.16" transform="translate(217.9 115.35)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_264" data-name="Linha 264" x1="107.26" transform="translate(217.9 121.31)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_265" data-name="Linha 265" x1="102.32" transform="translate(217.9 105.06)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_266" data-name="Linha 266" x1="99.87" transform="translate(217.9 100.71)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_267" data-name="Linha 267" x1="97.03" transform="translate(217.9 96.92)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_268" data-name="Linha 268" x1="93.98" transform="translate(217.9 93.67)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_269" data-name="Linha 269" x1="90.58" transform="translate(217.9 90.96)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_270" data-name="Linha 270" x1="87.11" transform="translate(217.9 88.78)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_271" data-name="Linha 271" x1="83.19" transform="translate(217.9 87.17)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_272" data-name="Linha 272" x2="22.39" y2="3.87" transform="translate(325.15 121.31)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_273" data-name="Linha 273" x2="21.9" y2="3.86" transform="translate(324.01 115.35)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_274" data-name="Linha 274" x2="21.15" y2="3.87" transform="translate(322.38 109.92)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_275" data-name="Linha 275" x2="20.36" y2="3.84" transform="translate(320.22 105.06)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_276" data-name="Linha 276" x2="19.39" y2="3.86" transform="translate(317.77 100.71)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_277" data-name="Linha 277" x2="18.53" y2="3.86" transform="translate(314.93 96.92)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_278" data-name="Linha 278" x2="17.58" y2="3.86" transform="translate(311.9 93.67)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_279" data-name="Linha 279" x2="17.05" y2="3.86" transform="translate(308.51 90.96)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_280" data-name="Linha 280" x2="16.77" y2="3.87" transform="translate(304.97 88.78)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_281" data-name="Linha 281" x2="17.19" y2="3.84" transform="translate(301.12 87.17)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_282" data-name="Linha 282" x1="28.55" transform="translate(261.13 25.62)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_283" data-name="Linha 283" x1="30.28" transform="translate(261.13 30.7)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_284" data-name="Linha 284" x1="31.55" transform="translate(261.13 36.28)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_285" data-name="Linha 285" x1="26.39" transform="translate(261.13 21.06)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_286" data-name="Linha 286" x1="23.91" transform="translate(261.13 16.99)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_287" data-name="Linha 287" x1="21.17" transform="translate(261.13 13.45)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_288" data-name="Linha 288" x1="18.27" transform="translate(261.13 10.4)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_289" data-name="Linha 289" x1="15" transform="translate(261.13 7.86)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_290" data-name="Linha 290" x1="11.68" transform="translate(261.13 5.84)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_291" data-name="Linha 291" x1="8.21" transform="translate(261.13 4.31)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_292" data-name="Linha 292" x1="10.9" y1="2.48" transform="translate(292.69 36.25)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_293" data-name="Linha 293" x1="10.89" y1="2.47" transform="translate(291.43 30.7)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_294" data-name="Linha 294" x1="10.65" y1="2.48" transform="translate(289.65 25.62)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_295" data-name="Linha 295" x1="10.46" y1="2.48" transform="translate(287.47 21.06)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_296" data-name="Linha 296" x1="10.07" y1="2.48" transform="translate(285.02 16.99)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_297" data-name="Linha 297" x1="9.67" y1="2.48" transform="translate(282.25 13.45)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_298" data-name="Linha 298" x1="9.27" y1="2.48" transform="translate(279.37 10.4)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_299" data-name="Linha 299" x1="9.18" y1="2.48" transform="translate(276.15 7.86)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_300" data-name="Linha 300" x1="9.19" y1="2.48" transform="translate(272.7 5.84)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_301" data-name="Linha 301" x2="28.58" transform="translate(232.55 25.62)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_302" data-name="Linha 302" x2="30.33" transform="translate(230.8 30.7)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_303" data-name="Linha 303" x2="31.6" transform="translate(229.53 36.28)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_304" data-name="Linha 304" x2="26.42" transform="translate(234.71 21.06)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_305" data-name="Linha 305" x2="23.94" transform="translate(237.19 16.99)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_306" data-name="Linha 306" x2="21.2" transform="translate(239.93 13.45)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_307" data-name="Linha 307" x2="18.29" transform="translate(242.84 10.4)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_308" data-name="Linha 308" x2="15.02" transform="translate(246.11 7.86)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_309" data-name="Linha 309" x2="11.7" transform="translate(249.43 5.84)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_310" data-name="Linha 310" x2="8.21" transform="translate(252.92 4.31)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_311" data-name="Linha 311" y1="2.48" x2="10.92" transform="translate(218.6 36.25)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_312" data-name="Linha 312" y1="2.47" x2="10.92" transform="translate(219.87 30.7)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_313" data-name="Linha 313" y1="2.48" x2="10.68" transform="translate(221.89 25.62)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_314" data-name="Linha 314" y1="2.48" x2="10.48" transform="translate(224.27 21.06)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_315" data-name="Linha 315" y1="2.48" x2="10.09" transform="translate(227.11 16.99)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_316" data-name="Linha 316" y1="2.48" x2="9.68" transform="translate(230.29 13.45)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_317" data-name="Linha 317" y1="2.48" x2="9.3" transform="translate(233.57 10.4)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_318" data-name="Linha 318" y1="2.48" x2="9.2" transform="translate(236.9 7.86)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_319" data-name="Linha 319" y1="2.48" x2="9.19" transform="translate(240.35 5.84)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_320" data-name="Linha 320" x2="43.13" transform="translate(217.91 148.93)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_321" data-name="Linha 321" x1="43.12" transform="translate(153.23 148.93)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_322" data-name="Linha 322" y1="41.24" transform="translate(153.23 86.12)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_323" data-name="Linha 323" y1="41.24" transform="translate(196.36 86.12)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_324" data-name="Linha 324" x1="86.24" transform="translate(131.67 121.31)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_325" data-name="Linha 325" x1="86.24" transform="translate(131.67 115.35)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_326" data-name="Linha 326" x1="86.24" transform="translate(131.67 109.92)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_327" data-name="Linha 327" x1="86.24" transform="translate(131.67 105.06)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_328" data-name="Linha 328" x1="86.24" transform="translate(131.67 100.71)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_329" data-name="Linha 329" x1="86.24" transform="translate(131.67 96.92)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_330" data-name="Linha 330" x1="86.24" transform="translate(131.67 93.67)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_331" data-name="Linha 331" x1="86.24" transform="translate(131.67 90.96)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_332" data-name="Linha 332" x1="86.24" transform="translate(131.67 88.78)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_333" data-name="Linha 333" x1="86.24" transform="translate(131.67 87.17)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-    <line id="Linha_334" data-name="Linha 334" y1="27.52" transform="translate(261.04 58.14)" fill="none" stroke="#daa573" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="0.1 1.5"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 350 193.5" style="enable-background:new 0 0 350 193.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6F2033;}
+	.st1{fill:none;stroke:#DAA573;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0.1,1.5;}
+</style>
+<g>
+	<path class="st0" d="M348.27,192.05H1.3v-60.83l0.13-1.84c1.91-21.21,20.15-38.49,43.94-42.57V44.4
+		C46.26,21.34,65.23,2.92,88.5,2.92s42.24,18.41,43.14,41.48h0.01c0.89-23.07,19.86-41.48,43.14-41.48
+		c23.27,0,42.24,18.41,43.14,41.48l0,0l0,0c0.89-23.05,19.86-41.48,43.14-41.48c23.27,0,42.24,18.41,43.14,41.48v42.41
+		c23.79,4.08,42.03,21.36,43.94,42.57h0.13v62.67H348.27z"/>
+	<path class="st1" d="M23.87,159.72c0-17.86,14.48-32.34,32.34-32.34s32.34,14.48,32.34,32.34"/>
+	<path class="st1" d="M34.65,159.72c0-11.91,9.65-21.56,21.56-21.56s21.56,9.65,21.56,21.56"/>
+	<path class="st1" d="M45.43,159.72c0-5.95,4.83-10.77,10.77-10.77s10.77,4.83,10.77,10.77"/>
+	<path class="st1" d="M50.82,159.72c0-2.97,2.42-5.39,5.39-5.39c2.97,0,5.39,2.42,5.39,5.39"/>
+	<rect x="23.87" y="127.36" class="st1" width="64.69" height="64.69"/>
+	<line class="st1" x1="88.56" y1="159.72" x2="23.87" y2="159.72"/>
+	<line class="st1" x1="23.87" y1="159.72" x2="23.87" y2="192.13"/>
+	<line class="st1" x1="34.65" y1="159.72" x2="34.65" y2="192.13"/>
+	<line class="st1" x1="45.43" y1="159.72" x2="45.43" y2="192.13"/>
+	<line class="st1" x1="56.22" y1="127.41" x2="56.22" y2="192.13"/>
+	<line class="st1" x1="110.09" y1="127.41" x2="110.09" y2="192.13"/>
+	<line class="st1" x1="66.99" y1="159.72" x2="66.99" y2="192.13"/>
+	<line class="st1" x1="77.78" y1="159.72" x2="77.78" y2="192.13"/>
+	<line class="st1" x1="88.56" y1="159.72" x2="88.56" y2="192.13"/>
+	<line class="st1" x1="88.56" y1="159.72" x2="23.87" y2="159.72"/>
+	<line class="st1" x1="88.56" y1="170.49" x2="23.87" y2="170.49"/>
+	<line class="st1" x1="88.56" y1="181.28" x2="23.87" y2="181.28"/>
+	<path class="st1" d="M23.87,159.72c0-17.86-5.06-31.48-11.29-30.41C6.35,130.37,1.3,144.84,1.3,161.66"/>
+	<path class="st1" d="M20.1,160.04c0-11.8-3.37-20.86-7.52-20.28c-4.16,0.6-7.52,10.25-7.52,21.56"/>
+	<path class="st1" d="M16.34,160.36c0-5.83-1.69-10.38-3.76-10.13c-2.07,0.23-3.76,5.06-3.76,10.77"/>
+	<polygon class="st1" points="1.3,192.05 23.87,192.05 23.87,127.36 1.3,131.23 	"/>
+	<line class="st1" x1="1.3" y1="161.64" x2="23.87" y2="159.72"/>
+	<line class="st1" x1="23.87" y1="159.72" x2="23.87" y2="192.13"/>
+	<line class="st1" x1="20.1" y1="160.04" x2="20.1" y2="192.13"/>
+	<line class="st1" x1="16.34" y1="160.36" x2="16.34" y2="192.13"/>
+	<line class="st1" x1="12.58" y1="129.33" x2="12.58" y2="192.13"/>
+	<line class="st1" x1="8.82" y1="161" x2="8.82" y2="192.13"/>
+	<line class="st1" x1="5.06" y1="161.32" x2="5.06" y2="192.13"/>
+	<line class="st1" x1="1.3" y1="161.64" x2="1.3" y2="192.13"/>
+	<line class="st1" x1="1.3" y1="161.64" x2="23.87" y2="159.72"/>
+	<line class="st1" x1="1.3" y1="171.79" x2="23.87" y2="170.49"/>
+	<line class="st1" x1="1.3" y1="181.92" x2="23.87" y2="181.28"/>
+	<rect x="88.53" y="127.36" class="st1" width="43.13" height="64.69"/>
+	<path class="st1" d="M88.53,148.93c0-11.91,9.65-21.56,21.56-21.56s21.56,9.65,21.56,21.56"/>
+	<path class="st1" d="M99.3,148.93c0-5.95,4.83-10.77,10.77-10.77c5.95,0,10.77,4.83,10.77,10.77"/>
+	<line class="st1" x1="99.3" y1="148.93" x2="99.3" y2="192.07"/>
+	<line class="st1" x1="120.87" y1="148.93" x2="120.87" y2="192.07"/>
+	<line class="st1" x1="110.09" y1="85.9" x2="110.09" y2="127.41"/>
+	<line class="st1" x1="131.66" y1="159.72" x2="88.53" y2="159.72"/>
+	<line class="st1" x1="131.66" y1="170.49" x2="88.53" y2="170.49"/>
+	<line class="st1" x1="131.66" y1="181.28" x2="88.53" y2="181.28"/>
+	<line class="st1" x1="174.8" y1="127.41" x2="174.8" y2="159.61"/>
+	<rect x="153.23" y="127.36" class="st1" width="43.13" height="64.69"/>
+	<path class="st1" d="M153.23,148.93c0-11.91,9.65-21.56,21.56-21.56c11.91,0,21.56,9.65,21.56,21.56"/>
+	<path class="st1" d="M164.01,148.93c0-5.95,4.83-10.77,10.77-10.77s10.77,4.83,10.77,10.77"/>
+	<line class="st1" x1="164.01" y1="148.93" x2="164.01" y2="159.77"/>
+	<line class="st1" x1="185.57" y1="148.93" x2="185.57" y2="159.77"/>
+	<line class="st1" x1="196.35" y1="159.72" x2="153.23" y2="159.72"/>
+	<line class="st1" x1="88.53" y1="127.36" x2="88.53" y2="86.12"/>
+	<line class="st1" x1="120.88" y1="85.9" x2="88.53" y2="85.9"/>
+	<path class="st1" d="M120.84,41.94C119.2,20.02,105.35,2.92,88.51,2.92c-16.85,0-30.71,17.12-32.34,39.02
+		C56.17,41.94,120.84,41.94,120.84,41.94z"/>
+	<path class="st1" d="M120.87,58.14c0-8.94-7.25-16.17-16.17-16.17c-8.94,0-16.17,7.25-16.17,16.17"/>
+	<path class="st1" d="M93.92,58.14c0-5.95,4.83-10.77,10.77-10.77c5.95,0,10.77,4.83,10.77,10.77"/>
+	<line class="st1" x1="120.87" y1="41.94" x2="120.87" y2="85.9"/>
+	<line class="st1" x1="120.88" y1="58.14" x2="88.53" y2="58.14"/>
+	<line class="st1" x1="120.88" y1="71.75" x2="88.53" y2="71.75"/>
+	<line class="st1" x1="88.53" y1="58.14" x2="88.53" y2="85.9"/>
+	<line class="st1" x1="93.92" y1="58.14" x2="93.92" y2="85.9"/>
+	<line class="st1" x1="104.7" y1="42.03" x2="104.7" y2="85.9"/>
+	<line class="st1" x1="115.49" y1="58.14" x2="115.49" y2="85.9"/>
+	<line class="st1" x1="88.53" y1="85.66" x2="88.53" y2="55.44"/>
+	<path class="st1" d="M83.09,58.14c0-5.95-4.83-10.77-10.77-10.77c-5.95,0-10.79,4.83-10.79,10.77"/>
+	<line class="st1" x1="56.12" y1="58.14" x2="88.48" y2="58.14"/>
+	<line class="st1" x1="56.12" y1="71.75" x2="88.48" y2="71.75"/>
+	<line class="st1" x1="83.09" y1="58.14" x2="83.09" y2="85.9"/>
+	<line class="st1" x1="72.3" y1="42.03" x2="72.3" y2="85.9"/>
+	<line class="st1" x1="61.53" y1="58.14" x2="61.53" y2="85.9"/>
+	<path class="st1" d="M99.35,41.94C98.79,20.02,94.16,2.92,88.51,2.92c-5.64,0-10.29,17.12-10.83,39.02"/>
+	<path class="st1" d="M56.12,58.14c0-8.94-2.41-15.08-5.38-13.75c-2.97,1.3-5.38,8.75-5.38,16.65"/>
+	<path class="st1" d="M47.15,60.57c0-5.38,1.6-10.35,3.59-11.1c1.98-0.77,3.59,3.34,3.59,9.17"/>
+	<line class="st1" x1="56.12" y1="58.14" x2="45.36" y2="61.04"/>
+	<line class="st1" x1="56.12" y1="71.75" x2="45.36" y2="73.2"/>
+	<line class="st1" x1="56.12" y1="85.9" x2="56.12" y2="58.14"/>
+	<path class="st1" d="M45.36,86.77"/>
+	<path class="st1" d="M45.36,44.39"/>
+	<line class="st1" x1="47.15" y1="60.57" x2="47.15" y2="86.54"/>
+	<line class="st1" x1="50.74" y1="44.39" x2="50.74" y2="86.17"/>
+	<line class="st1" x1="54.32" y1="58.63" x2="54.32" y2="85.9"/>
+	<path class="st1" d="M120.88,58.14c0-8.94,2.41-15.08,5.38-13.75c2.97,1.3,5.38,8.75,5.38,16.65"/>
+	<path class="st1" d="M129.86,60.57c0-5.38-1.6-10.35-3.59-11.1c-1.98-0.77-3.59,3.34-3.59,9.17"/>
+	<line class="st1" x1="120.88" y1="58.14" x2="131.66" y2="61.04"/>
+	<line class="st1" x1="120.88" y1="71.75" x2="131.66" y2="73.2"/>
+	<polyline class="st1" points="131.66,61.04 131.66,85.9 120.88,85.9 120.88,58.14 	"/>
+	<line class="st1" x1="129.86" y1="60.57" x2="129.86" y2="85.9"/>
+	<line class="st1" x1="126.28" y1="44.23" x2="126.28" y2="85.9"/>
+	<line class="st1" x1="122.69" y1="58.63" x2="122.69" y2="85.9"/>
+	<path class="st1" d="M120.87,85.9"/>
+	<line class="st1" x1="131.66" y1="44.4" x2="120.87" y2="41.94"/>
+	<path class="st1" d="M131.66,83.62"/>
+	<line class="st1" x1="88.48" y1="85.9" x2="56.13" y2="85.9"/>
+	<path class="st1" d="M56.13,58.14c0-8.94,7.25-16.17,16.17-16.17c8.94,0,16.17,7.25,16.17,16.17"/>
+	<line class="st1" x1="45.36" y1="44.4" x2="56.17" y2="41.94"/>
+	<path class="st1" d="M131.64,44.39"/>
+	<path class="st1" d="M56.22,85.91c-17.45,0-31.67,18.43-32.34,41.5"/>
+	<line class="st1" x1="131.66" y1="85.9" x2="131.66" y2="127.48"/>
+	<line class="st1" x1="174.8" y1="85.9" x2="174.8" y2="127.48"/>
+	<line class="st1" x1="217.9" y1="85.9" x2="217.9" y2="127.48"/>
+	<line class="st1" x1="56.13" y1="41.94" x2="56.13" y2="85.9"/>
+	<path class="st1" d="M56.22,85.91c-17.45,0-31.67,18.43-32.34,41.5"/>
+	<path class="st1" d="M66.96,85.93c-11.65,0-21.14,18.41-21.59,41.48"/>
+	<path class="st1" d="M77.71,85.93c-5.9,0-10.73,18.41-10.95,41.48"/>
+	<path class="st1" d="M56.17,85.9c-25.68,0-46.6,19.6-47.59,44.1"/>
+	<path class="st1" d="M56.17,85.9c-21.62,0-39.25,19.03-40.08,42.85"/>
+	<line class="st1" x1="27.17" y1="109.92" x2="131.67" y2="109.92"/>
+	<line class="st1" x1="25.51" y1="115.35" x2="131.67" y2="115.35"/>
+	<line class="st1" x1="24.4" y1="121.31" x2="131.67" y2="121.31"/>
+	<line class="st1" x1="29.35" y1="105.06" x2="131.67" y2="105.06"/>
+	<line class="st1" x1="31.8" y1="100.71" x2="131.67" y2="100.71"/>
+	<line class="st1" x1="34.64" y1="96.92" x2="131.67" y2="96.92"/>
+	<line class="st1" x1="37.69" y1="93.67" x2="131.67" y2="93.67"/>
+	<line class="st1" x1="41.08" y1="90.96" x2="131.67" y2="90.96"/>
+	<line class="st1" x1="44.55" y1="88.78" x2="131.67" y2="88.78"/>
+	<line class="st1" x1="48.48" y1="87.17" x2="131.67" y2="87.17"/>
+	<line class="st1" x1="24.42" y1="121.31" x2="2.02" y2="125.18"/>
+	<line class="st1" x1="25.56" y1="115.35" x2="3.66" y2="119.21"/>
+	<line class="st1" x1="27.19" y1="109.92" x2="6.03" y2="113.79"/>
+	<line class="st1" x1="29.35" y1="105.06" x2="8.98" y2="108.9"/>
+	<line class="st1" x1="31.8" y1="100.71" x2="12.41" y2="104.57"/>
+	<line class="st1" x1="34.64" y1="96.92" x2="16.11" y2="100.78"/>
+	<line class="st1" x1="37.67" y1="93.67" x2="20.07" y2="97.53"/>
+	<line class="st1" x1="41.06" y1="90.96" x2="24.01" y2="94.82"/>
+	<line class="st1" x1="44.6" y1="88.78" x2="27.83" y2="92.65"/>
+	<line class="st1" x1="48.45" y1="87.17" x2="31.26" y2="91.01"/>
+	<line class="st1" x1="59.89" y1="25.62" x2="88.44" y2="25.62"/>
+	<line class="st1" x1="58.16" y1="30.7" x2="88.44" y2="30.7"/>
+	<line class="st1" x1="56.89" y1="36.28" x2="88.44" y2="36.28"/>
+	<line class="st1" x1="62.05" y1="21.06" x2="88.44" y2="21.06"/>
+	<line class="st1" x1="64.53" y1="16.99" x2="88.43" y2="16.99"/>
+	<line class="st1" x1="67.27" y1="13.45" x2="88.43" y2="13.45"/>
+	<line class="st1" x1="70.17" y1="10.4" x2="88.44" y2="10.4"/>
+	<line class="st1" x1="73.44" y1="7.86" x2="88.44" y2="7.86"/>
+	<line class="st1" x1="76.76" y1="5.84" x2="88.44" y2="5.84"/>
+	<line class="st1" x1="80.23" y1="4.31" x2="88.44" y2="4.31"/>
+	<line class="st1" x1="45.98" y1="38.73" x2="56.87" y2="36.25"/>
+	<line class="st1" x1="47.25" y1="33.17" x2="58.14" y2="30.7"/>
+	<line class="st1" x1="49.26" y1="28.1" x2="59.92" y2="25.62"/>
+	<line class="st1" x1="51.64" y1="23.54" x2="62.09" y2="21.06"/>
+	<line class="st1" x1="54.48" y1="19.47" x2="64.54" y2="16.99"/>
+	<line class="st1" x1="57.65" y1="15.93" x2="67.31" y2="13.45"/>
+	<line class="st1" x1="60.93" y1="12.88" x2="70.2" y2="10.4"/>
+	<line class="st1" x1="64.24" y1="10.34" x2="73.42" y2="7.86"/>
+	<line class="st1" x1="67.68" y1="8.32" x2="76.86" y2="5.84"/>
+	<line class="st1" x1="117.02" y1="25.62" x2="88.44" y2="25.62"/>
+	<line class="st1" x1="118.77" y1="30.7" x2="88.44" y2="30.7"/>
+	<line class="st1" x1="120.04" y1="36.28" x2="88.44" y2="36.28"/>
+	<line class="st1" x1="114.86" y1="21.06" x2="88.43" y2="21.06"/>
+	<line class="st1" x1="112.38" y1="16.99" x2="88.44" y2="16.99"/>
+	<line class="st1" x1="109.64" y1="13.45" x2="88.44" y2="13.45"/>
+	<line class="st1" x1="106.72" y1="10.4" x2="88.43" y2="10.4"/>
+	<line class="st1" x1="103.46" y1="7.86" x2="88.44" y2="7.86"/>
+	<line class="st1" x1="100.13" y1="5.84" x2="88.44" y2="5.84"/>
+	<line class="st1" x1="96.65" y1="4.31" x2="88.44" y2="4.31"/>
+	<line class="st1" x1="130.96" y1="38.73" x2="120.05" y2="36.25"/>
+	<line class="st1" x1="129.7" y1="33.17" x2="118.78" y2="30.7"/>
+	<line class="st1" x1="127.68" y1="28.1" x2="117" y2="25.62"/>
+	<line class="st1" x1="125.3" y1="23.54" x2="114.82" y2="21.06"/>
+	<line class="st1" x1="122.46" y1="19.47" x2="112.37" y2="16.99"/>
+	<line class="st1" x1="119.28" y1="15.93" x2="109.6" y2="13.45"/>
+	<line class="st1" x1="116" y1="12.88" x2="106.69" y2="10.4"/>
+	<line class="st1" x1="112.67" y1="10.34" x2="103.47" y2="7.86"/>
+	<line class="st1" x1="109.22" y1="8.32" x2="100.03" y2="5.84"/>
+	<path class="st1" d="M207.12,41.94c-1.63-21.91-15.48-39.02-32.34-39.02s-30.71,17.12-32.34,39.02H207.12z"/>
+	<path class="st1" d="M207.15,58.14c0-8.94-7.25-16.17-16.17-16.17c-8.94,0-16.17,7.25-16.17,16.17"/>
+	<path class="st1" d="M180.21,58.14c0-5.95,4.83-10.77,10.77-10.77s10.77,4.83,10.77,10.77"/>
+	<line class="st1" x1="207.15" y1="41.94" x2="207.15" y2="85.9"/>
+	<line class="st1" x1="207.17" y1="58.14" x2="174.81" y2="58.14"/>
+	<line class="st1" x1="207.17" y1="71.75" x2="174.81" y2="71.75"/>
+	<line class="st1" x1="174.81" y1="58.14" x2="174.81" y2="85.9"/>
+	<line class="st1" x1="180.21" y1="58.14" x2="180.21" y2="85.9"/>
+	<line class="st1" x1="190.98" y1="42.03" x2="190.98" y2="85.9"/>
+	<line class="st1" x1="201.76" y1="58.14" x2="201.76" y2="85.9"/>
+	<line class="st1" x1="174.81" y1="65.5" x2="174.81" y2="3.17"/>
+	<path class="st1" d="M169.37,58.14c0-5.95-4.83-10.77-10.77-10.77c-5.95,0-10.77,4.83-10.77,10.77"/>
+	<line class="st1" x1="142.4" y1="58.14" x2="174.77" y2="58.14"/>
+	<line class="st1" x1="142.4" y1="71.75" x2="174.77" y2="71.75"/>
+	<line class="st1" x1="174.76" y1="58.14" x2="174.76" y2="85.9"/>
+	<line class="st1" x1="169.37" y1="58.14" x2="169.37" y2="85.9"/>
+	<line class="st1" x1="158.59" y1="42.03" x2="158.59" y2="85.9"/>
+	<line class="st1" x1="147.81" y1="58.14" x2="147.81" y2="85.9"/>
+	<path class="st1" d="M185.63,41.94c-0.55-21.91-5.19-39.02-10.83-39.02c-5.64,0-10.29,17.12-10.83,39.02"/>
+	<path class="st1" d="M207.17,58.14c0-8.94,2.41-15.08,5.38-13.75c2.97,1.3,5.38,8.75,5.38,16.65"/>
+	<path class="st1" d="M216.15,60.57c0-5.38-1.6-10.35-3.59-11.1c-1.98-0.77-3.59,3.34-3.59,9.17"/>
+	<line class="st1" x1="207.17" y1="58.14" x2="217.94" y2="61.04"/>
+	<line class="st1" x1="207.17" y1="71.75" x2="217.94" y2="73.2"/>
+	<polyline class="st1" points="217.94,61.04 217.94,85.9 207.17,85.9 207.17,58.14 	"/>
+	<line class="st1" x1="216.15" y1="60.57" x2="216.15" y2="85.9"/>
+	<line class="st1" x1="212.56" y1="44.23" x2="212.56" y2="85.9"/>
+	<line class="st1" x1="208.97" y1="58.63" x2="208.97" y2="85.9"/>
+	<path class="st1" d="M217.94,83.62"/>
+	<line class="st1" x1="207.15" y1="41.94" x2="217.94" y2="44.4"/>
+	<polyline class="st1" points="142.42,41.94 142.42,85.9 207.15,85.9 	"/>
+	<path class="st1" d="M142.42,58.14c0-8.94-2.41-15.08-5.38-13.75c-2.97,1.3-5.38,8.75-5.38,16.65"/>
+	<path class="st1" d="M133.43,60.57c0-5.38,1.6-10.35,3.59-11.1c1.98-0.77,3.59,3.34,3.59,9.17"/>
+	<line class="st1" x1="142.42" y1="58.14" x2="131.64" y2="61.04"/>
+	<line class="st1" x1="142.42" y1="71.75" x2="131.64" y2="73.2"/>
+	<line class="st1" x1="131.64" y1="85.9" x2="142.42" y2="85.9"/>
+	<path class="st1" d="M131.64,61.04"/>
+	<line class="st1" x1="133.43" y1="60.57" x2="133.43" y2="85.9"/>
+	<line class="st1" x1="137.04" y1="44.23" x2="137.04" y2="85.9"/>
+	<line class="st1" x1="140.62" y1="58.63" x2="140.62" y2="85.9"/>
+	<path class="st1" d="M142.43,85.9"/>
+	<line class="st1" x1="131.64" y1="44.4" x2="142.43" y2="41.94"/>
+	<path class="st1" d="M131.64,85.9"/>
+	<path class="st1" d="M142.42,58.14c0-8.94,7.25-16.17,16.17-16.17c8.94,0,16.17,7.25,16.17,16.17"/>
+	<path class="st1" d="M217.93,44.39"/>
+	<line class="st1" x1="146.18" y1="25.62" x2="174.73" y2="25.62"/>
+	<line class="st1" x1="144.44" y1="30.7" x2="174.71" y2="30.7"/>
+	<line class="st1" x1="143.17" y1="36.28" x2="174.71" y2="36.28"/>
+	<line class="st1" x1="148.34" y1="21.06" x2="174.73" y2="21.06"/>
+	<line class="st1" x1="150.81" y1="16.99" x2="174.71" y2="16.99"/>
+	<line class="st1" x1="153.56" y1="13.45" x2="174.71" y2="13.45"/>
+	<line class="st1" x1="156.46" y1="10.4" x2="174.71" y2="10.4"/>
+	<line class="st1" x1="159.72" y1="7.86" x2="174.71" y2="7.86"/>
+	<line class="st1" x1="163.05" y1="5.84" x2="174.71" y2="5.84"/>
+	<line class="st1" x1="166.52" y1="4.31" x2="174.71" y2="4.31"/>
+	<line class="st1" x1="132.27" y1="38.73" x2="143.16" y2="36.25"/>
+	<line class="st1" x1="133.54" y1="33.17" x2="144.43" y2="30.7"/>
+	<line class="st1" x1="135.55" y1="28.1" x2="146.21" y2="25.62"/>
+	<line class="st1" x1="137.93" y1="23.54" x2="148.38" y2="21.06"/>
+	<line class="st1" x1="140.77" y1="19.47" x2="150.83" y2="16.99"/>
+	<line class="st1" x1="143.93" y1="15.93" x2="153.6" y2="13.45"/>
+	<line class="st1" x1="147.21" y1="12.88" x2="156.49" y2="10.4"/>
+	<line class="st1" x1="150.52" y1="10.34" x2="159.71" y2="7.86"/>
+	<line class="st1" x1="153.96" y1="8.32" x2="163.15" y2="5.84"/>
+	<line class="st1" x1="203.3" y1="25.62" x2="174.71" y2="25.62"/>
+	<line class="st1" x1="205.05" y1="30.7" x2="174.73" y2="30.7"/>
+	<line class="st1" x1="206.32" y1="36.28" x2="174.73" y2="36.28"/>
+	<line class="st1" x1="201.15" y1="21.06" x2="174.71" y2="21.06"/>
+	<line class="st1" x1="198.67" y1="16.99" x2="174.71" y2="16.99"/>
+	<line class="st1" x1="195.91" y1="13.45" x2="174.71" y2="13.45"/>
+	<line class="st1" x1="193.01" y1="10.4" x2="174.73" y2="10.4"/>
+	<line class="st1" x1="189.74" y1="7.86" x2="174.73" y2="7.86"/>
+	<line class="st1" x1="186.42" y1="5.84" x2="174.73" y2="5.84"/>
+	<line class="st1" x1="182.93" y1="4.31" x2="174.71" y2="4.31"/>
+	<line class="st1" x1="217.24" y1="38.73" x2="206.34" y2="36.25"/>
+	<line class="st1" x1="215.99" y1="33.17" x2="205.07" y2="30.7"/>
+	<line class="st1" x1="213.96" y1="28.1" x2="203.29" y2="25.62"/>
+	<line class="st1" x1="211.58" y1="23.54" x2="201.1" y2="21.06"/>
+	<line class="st1" x1="208.73" y1="19.47" x2="198.65" y2="16.99"/>
+	<line class="st1" x1="205.56" y1="15.93" x2="195.88" y2="13.45"/>
+	<line class="st1" x1="202.28" y1="12.88" x2="192.98" y2="10.4"/>
+	<line class="st1" x1="198.96" y1="10.34" x2="189.76" y2="7.86"/>
+	<line class="st1" x1="195.5" y1="8.32" x2="186.32" y2="5.84"/>
+	<path class="st1" d="M131.66,138.15c0-5.95,4.83-10.77,10.77-10.77c5.96,0,10.79,4.83,10.79,10.77"/>
+	<rect x="131.66" y="127.36" class="st1" width="21.56" height="64.69"/>
+	<line class="st1" x1="142.45" y1="192.05" x2="142.45" y2="127.36"/>
+	<line class="st1" x1="131.66" y1="148.93" x2="153.23" y2="148.93"/>
+	<line class="st1" x1="131.66" y1="159.72" x2="153.23" y2="159.72"/>
+	<line class="st1" x1="131.66" y1="170.49" x2="153.23" y2="170.49"/>
+	<line class="st1" x1="131.66" y1="181.28" x2="153.23" y2="181.28"/>
+	<line class="st1" x1="131.66" y1="138.15" x2="153.23" y2="138.15"/>
+	<path class="st1" d="M196.36,138.15c0-5.95,4.83-10.77,10.77-10.77c5.95,0,10.77,4.83,10.77,10.77"/>
+	<rect x="196.36" y="127.36" class="st1" width="21.56" height="64.69"/>
+	<line class="st1" x1="207.15" y1="192.05" x2="207.15" y2="127.36"/>
+	<line class="st1" x1="196.36" y1="148.93" x2="217.94" y2="148.93"/>
+	<line class="st1" x1="196.36" y1="159.72" x2="217.94" y2="159.72"/>
+	<line class="st1" x1="196.36" y1="170.49" x2="217.94" y2="170.49"/>
+	<line class="st1" x1="196.36" y1="181.28" x2="217.94" y2="181.28"/>
+	<line class="st1" x1="196.36" y1="138.15" x2="217.94" y2="138.15"/>
+	<line class="st1" x1="131.66" y1="148.93" x2="88.53" y2="148.93"/>
+	<path class="st1" d="M325.7,159.72c0-17.86-14.48-32.34-32.34-32.34c-17.86,0-32.34,14.48-32.34,32.34"/>
+	<path class="st1" d="M314.91,159.72c0-11.91-9.65-21.56-21.56-21.56c-11.91,0-21.56,9.65-21.56,21.56"/>
+	<path class="st1" d="M304.14,159.72c0-5.95-4.83-10.77-10.77-10.77s-10.77,4.83-10.77,10.77"/>
+	<rect x="261.01" y="127.36" class="st1" width="64.69" height="64.69"/>
+	<line class="st1" x1="261.01" y1="159.72" x2="325.7" y2="159.72"/>
+	<line class="st1" x1="325.7" y1="159.72" x2="325.7" y2="192.13"/>
+	<line class="st1" x1="314.91" y1="159.72" x2="314.91" y2="192.13"/>
+	<line class="st1" x1="304.14" y1="159.72" x2="304.14" y2="192.13"/>
+	<line class="st1" x1="293.35" y1="127.41" x2="293.35" y2="192.13"/>
+	<line class="st1" x1="239.48" y1="127.41" x2="239.48" y2="192.13"/>
+	<line class="st1" x1="282.58" y1="159.72" x2="282.58" y2="192.13"/>
+	<line class="st1" x1="271.79" y1="159.72" x2="271.79" y2="192.13"/>
+	<line class="st1" x1="261.01" y1="159.72" x2="261.01" y2="192.13"/>
+	<line class="st1" x1="261.01" y1="159.72" x2="325.7" y2="159.72"/>
+	<line class="st1" x1="261.01" y1="170.49" x2="325.7" y2="170.49"/>
+	<line class="st1" x1="261.01" y1="181.28" x2="325.7" y2="181.28"/>
+	<path class="st1" d="M325.7,159.72c0-17.86,5.06-31.48,11.29-30.41c6.23,1.06,11.29,15.54,11.29,32.35"/>
+	<path class="st1" d="M329.46,160.04c0-11.8,3.37-20.86,7.52-20.28c4.16,0.6,7.52,10.25,7.52,21.56"/>
+	<path class="st1" d="M333.23,160.36c0-5.83,1.69-10.38,3.76-10.13c2.07,0.23,3.76,5.06,3.76,10.77"/>
+	<polygon class="st1" points="348.27,192.05 325.7,192.05 325.7,127.36 348.27,131.23 	"/>
+	<line class="st1" x1="348.27" y1="161.64" x2="325.7" y2="159.72"/>
+	<line class="st1" x1="325.7" y1="159.72" x2="325.7" y2="192.13"/>
+	<line class="st1" x1="329.46" y1="160.04" x2="329.46" y2="192.13"/>
+	<line class="st1" x1="333.23" y1="160.36" x2="333.23" y2="192.13"/>
+	<line class="st1" x1="336.99" y1="129.33" x2="336.99" y2="192.13"/>
+	<line class="st1" x1="340.75" y1="161" x2="340.75" y2="192.13"/>
+	<line class="st1" x1="344.51" y1="161.32" x2="344.51" y2="192.13"/>
+	<line class="st1" x1="348.27" y1="161.64" x2="348.27" y2="192.13"/>
+	<line class="st1" x1="348.27" y1="161.64" x2="325.7" y2="159.72"/>
+	<line class="st1" x1="348.27" y1="171.79" x2="325.7" y2="170.49"/>
+	<line class="st1" x1="348.27" y1="181.92" x2="325.7" y2="181.28"/>
+	<rect x="217.91" y="127.36" class="st1" width="43.13" height="64.69"/>
+	<path class="st1" d="M261.04,148.93c0-11.91-9.65-21.56-21.56-21.56c-11.91,0-21.56,9.65-21.56,21.56"/>
+	<path class="st1" d="M250.27,148.93c0-5.95-4.83-10.77-10.77-10.77s-10.77,4.83-10.77,10.77"/>
+	<line class="st1" x1="250.27" y1="148.93" x2="250.27" y2="192.07"/>
+	<line class="st1" x1="228.7" y1="148.93" x2="228.7" y2="192.07"/>
+	<line class="st1" x1="239.48" y1="85.9" x2="239.48" y2="127.41"/>
+	<line class="st1" x1="217.91" y1="159.72" x2="261.04" y2="159.72"/>
+	<line class="st1" x1="217.91" y1="170.49" x2="261.04" y2="170.49"/>
+	<line class="st1" x1="217.91" y1="181.28" x2="261.04" y2="181.28"/>
+	<line class="st1" x1="261.04" y1="127.36" x2="261.04" y2="86.12"/>
+	<line class="st1" x1="228.69" y1="85.9" x2="261.04" y2="85.9"/>
+	<path class="st1" d="M228.72,41.94c1.63-21.91,15.48-39.02,32.34-39.02s30.71,17.12,32.34,39.02H228.72z"/>
+	<path class="st1" d="M228.7,58.14c0-8.94,7.25-16.17,16.17-16.17c8.94,0,16.17,7.25,16.17,16.17"/>
+	<path class="st1" d="M255.65,58.14c0-5.95-4.83-10.77-10.77-10.77c-5.95,0-10.77,4.83-10.77,10.77"/>
+	<line class="st1" x1="228.7" y1="41.94" x2="228.7" y2="85.9"/>
+	<line class="st1" x1="228.69" y1="58.14" x2="261.04" y2="58.14"/>
+	<line class="st1" x1="228.69" y1="71.75" x2="261.04" y2="71.75"/>
+	<line class="st1" x1="261.04" y1="58.14" x2="261.04" y2="85.9"/>
+	<line class="st1" x1="255.65" y1="58.14" x2="255.65" y2="85.9"/>
+	<line class="st1" x1="244.87" y1="42.03" x2="244.87" y2="85.9"/>
+	<line class="st1" x1="234.08" y1="58.14" x2="234.08" y2="85.9"/>
+	<path class="st1" d="M266.48,58.14c0-5.95,4.83-10.77,10.77-10.77c5.95,0,10.77,4.83,10.77,10.77"/>
+	<line class="st1" x1="293.45" y1="58.14" x2="261.08" y2="58.14"/>
+	<line class="st1" x1="293.45" y1="71.75" x2="261.08" y2="71.75"/>
+	<line class="st1" x1="266.48" y1="58.14" x2="266.48" y2="85.9"/>
+	<line class="st1" x1="277.27" y1="42.03" x2="277.27" y2="85.9"/>
+	<line class="st1" x1="288.04" y1="58.14" x2="288.04" y2="85.9"/>
+	<path class="st1" d="M250.22,41.94c0.55-21.91,5.19-39.02,10.83-39.02c5.64,0,10.29,17.12,10.83,39.02"/>
+	<path class="st1" d="M293.45,58.14c0-8.94,2.41-15.08,5.38-13.75c2.97,1.3,5.38,8.75,5.38,16.65"/>
+	<path class="st1" d="M302.42,60.57c0-5.38-1.6-10.35-3.59-11.1c-1.98-0.77-3.59,3.34-3.59,9.17"/>
+	<line class="st1" x1="293.45" y1="58.14" x2="304.21" y2="61.04"/>
+	<line class="st1" x1="293.45" y1="71.75" x2="304.21" y2="73.2"/>
+	<line class="st1" x1="293.45" y1="85.9" x2="293.45" y2="58.14"/>
+	<line class="st1" x1="302.42" y1="60.57" x2="302.42" y2="86.54"/>
+	<line class="st1" x1="298.83" y1="44.39" x2="298.83" y2="86.17"/>
+	<line class="st1" x1="295.25" y1="58.63" x2="295.25" y2="85.9"/>
+	<path class="st1" d="M228.69,58.14c0-8.94-2.41-15.08-5.38-13.75c-2.97,1.3-5.38,8.75-5.38,16.65"/>
+	<path class="st1" d="M219.71,60.57c0-5.38,1.6-10.35,3.59-11.1c1.98-0.77,3.59,3.34,3.59,9.17"/>
+	<line class="st1" x1="228.69" y1="58.14" x2="217.91" y2="61.04"/>
+	<line class="st1" x1="228.69" y1="71.75" x2="217.91" y2="73.2"/>
+	<line class="st1" x1="217.91" y1="85.9" x2="228.67" y2="85.9"/>
+	<path class="st1" d="M217.91,61.04"/>
+	<line class="st1" x1="219.71" y1="60.57" x2="219.71" y2="85.9"/>
+	<line class="st1" x1="223.29" y1="44.23" x2="223.29" y2="85.9"/>
+	<line class="st1" x1="226.88" y1="58.63" x2="226.88" y2="85.9"/>
+	<path class="st1" d="M228.7,85.9"/>
+	<line class="st1" x1="217.91" y1="44.4" x2="228.7" y2="41.94"/>
+	<path class="st1" d="M217.91,83.62"/>
+	<line class="st1" x1="261.07" y1="85.9" x2="293.44" y2="85.9"/>
+	<path class="st1" d="M293.44,58.14c0-8.94-7.25-16.17-16.17-16.17c-8.94,0-16.17,7.25-16.17,16.17"/>
+	<line class="st1" x1="304.21" y1="44.4" x2="293.39" y2="41.94"/>
+	<path class="st1" d="M217.93,44.39"/>
+	<path class="st1" d="M293.35,85.91c17.45,0,31.67,18.43,32.34,41.5"/>
+	<line class="st1" x1="293.44" y1="41.94" x2="293.44" y2="85.9"/>
+	<path class="st1" d="M293.35,85.91c17.45,0,31.67,18.43,32.34,41.5"/>
+	<path class="st1" d="M293.39,85.9c29.61,0,53.74,20.12,54.89,45.3"/>
+	<path class="st1" d="M282.6,85.93c11.65,0,21.14,18.41,21.59,41.48"/>
+	<path class="st1" d="M271.86,85.93c5.9,0,10.73,18.41,10.95,41.48"/>
+	<path class="st1" d="M293.39,85.9c25.68,0,46.6,19.6,47.59,44.1"/>
+	<path class="st1" d="M293.39,85.9c21.62,0,39.25,19.03,40.08,42.85"/>
+	<line class="st1" x1="322.39" y1="109.92" x2="217.9" y2="109.92"/>
+	<line class="st1" x1="324.06" y1="115.35" x2="217.9" y2="115.35"/>
+	<line class="st1" x1="325.16" y1="121.31" x2="217.9" y2="121.31"/>
+	<line class="st1" x1="320.22" y1="105.06" x2="217.9" y2="105.06"/>
+	<line class="st1" x1="317.77" y1="100.71" x2="217.9" y2="100.71"/>
+	<line class="st1" x1="314.93" y1="96.92" x2="217.9" y2="96.92"/>
+	<line class="st1" x1="311.88" y1="93.67" x2="217.9" y2="93.67"/>
+	<line class="st1" x1="308.48" y1="90.96" x2="217.9" y2="90.96"/>
+	<line class="st1" x1="305.01" y1="88.78" x2="217.9" y2="88.78"/>
+	<line class="st1" x1="301.09" y1="87.17" x2="217.9" y2="87.17"/>
+	<line class="st1" x1="325.15" y1="121.31" x2="347.54" y2="125.18"/>
+	<line class="st1" x1="324.01" y1="115.35" x2="345.91" y2="119.21"/>
+	<line class="st1" x1="322.38" y1="109.92" x2="343.53" y2="113.79"/>
+	<line class="st1" x1="320.22" y1="105.06" x2="340.58" y2="108.9"/>
+	<line class="st1" x1="317.77" y1="100.71" x2="337.16" y2="104.57"/>
+	<line class="st1" x1="314.93" y1="96.92" x2="333.46" y2="100.78"/>
+	<line class="st1" x1="311.9" y1="93.67" x2="329.48" y2="97.53"/>
+	<line class="st1" x1="308.51" y1="90.96" x2="325.56" y2="94.82"/>
+	<line class="st1" x1="304.97" y1="88.78" x2="321.74" y2="92.65"/>
+	<line class="st1" x1="301.12" y1="87.17" x2="318.31" y2="91.01"/>
+	<line class="st1" x1="289.68" y1="25.62" x2="261.13" y2="25.62"/>
+	<line class="st1" x1="291.41" y1="30.7" x2="261.13" y2="30.7"/>
+	<line class="st1" x1="292.68" y1="36.28" x2="261.13" y2="36.28"/>
+	<line class="st1" x1="287.52" y1="21.06" x2="261.13" y2="21.06"/>
+	<line class="st1" x1="285.04" y1="16.99" x2="261.13" y2="16.99"/>
+	<line class="st1" x1="282.3" y1="13.45" x2="261.13" y2="13.45"/>
+	<line class="st1" x1="279.4" y1="10.4" x2="261.13" y2="10.4"/>
+	<line class="st1" x1="276.13" y1="7.86" x2="261.13" y2="7.86"/>
+	<line class="st1" x1="272.81" y1="5.84" x2="261.13" y2="5.84"/>
+	<line class="st1" x1="269.34" y1="4.31" x2="261.13" y2="4.31"/>
+	<line class="st1" x1="303.59" y1="38.73" x2="292.69" y2="36.25"/>
+	<line class="st1" x1="302.32" y1="33.17" x2="291.43" y2="30.7"/>
+	<line class="st1" x1="300.3" y1="28.1" x2="289.65" y2="25.62"/>
+	<line class="st1" x1="297.93" y1="23.54" x2="287.47" y2="21.06"/>
+	<line class="st1" x1="295.09" y1="19.47" x2="285.02" y2="16.99"/>
+	<line class="st1" x1="291.92" y1="15.93" x2="282.25" y2="13.45"/>
+	<line class="st1" x1="288.64" y1="12.88" x2="279.37" y2="10.4"/>
+	<line class="st1" x1="285.33" y1="10.34" x2="276.15" y2="7.86"/>
+	<line class="st1" x1="281.89" y1="8.32" x2="272.7" y2="5.84"/>
+	<line class="st1" x1="232.55" y1="25.62" x2="261.13" y2="25.62"/>
+	<line class="st1" x1="230.8" y1="30.7" x2="261.13" y2="30.7"/>
+	<line class="st1" x1="229.53" y1="36.28" x2="261.13" y2="36.28"/>
+	<line class="st1" x1="234.71" y1="21.06" x2="261.13" y2="21.06"/>
+	<line class="st1" x1="237.19" y1="16.99" x2="261.13" y2="16.99"/>
+	<line class="st1" x1="239.93" y1="13.45" x2="261.13" y2="13.45"/>
+	<line class="st1" x1="242.84" y1="10.4" x2="261.13" y2="10.4"/>
+	<line class="st1" x1="246.11" y1="7.86" x2="261.13" y2="7.86"/>
+	<line class="st1" x1="249.43" y1="5.84" x2="261.13" y2="5.84"/>
+	<line class="st1" x1="252.92" y1="4.31" x2="261.13" y2="4.31"/>
+	<line class="st1" x1="218.6" y1="38.73" x2="229.52" y2="36.25"/>
+	<line class="st1" x1="219.87" y1="33.17" x2="230.79" y2="30.7"/>
+	<line class="st1" x1="221.89" y1="28.1" x2="232.57" y2="25.62"/>
+	<line class="st1" x1="224.27" y1="23.54" x2="234.75" y2="21.06"/>
+	<line class="st1" x1="227.11" y1="19.47" x2="237.2" y2="16.99"/>
+	<line class="st1" x1="230.29" y1="15.93" x2="239.97" y2="13.45"/>
+	<line class="st1" x1="233.57" y1="12.88" x2="242.87" y2="10.4"/>
+	<line class="st1" x1="236.9" y1="10.34" x2="246.1" y2="7.86"/>
+	<line class="st1" x1="240.35" y1="8.32" x2="249.54" y2="5.84"/>
+	<line class="st1" x1="217.91" y1="148.93" x2="261.04" y2="148.93"/>
+	<line class="st1" x1="196.35" y1="148.93" x2="153.23" y2="148.93"/>
+	<line class="st1" x1="153.23" y1="127.36" x2="153.23" y2="86.12"/>
+	<line class="st1" x1="196.36" y1="127.36" x2="196.36" y2="86.12"/>
+	<line class="st1" x1="217.91" y1="121.31" x2="131.67" y2="121.31"/>
+	<line class="st1" x1="217.91" y1="115.35" x2="131.67" y2="115.35"/>
+	<line class="st1" x1="217.91" y1="109.92" x2="131.67" y2="109.92"/>
+	<line class="st1" x1="217.91" y1="105.06" x2="131.67" y2="105.06"/>
+	<line class="st1" x1="217.91" y1="100.71" x2="131.67" y2="100.71"/>
+	<line class="st1" x1="217.91" y1="96.92" x2="131.67" y2="96.92"/>
+	<line class="st1" x1="217.91" y1="93.67" x2="131.67" y2="93.67"/>
+	<line class="st1" x1="217.91" y1="90.96" x2="131.67" y2="90.96"/>
+	<line class="st1" x1="217.91" y1="88.78" x2="131.67" y2="88.78"/>
+	<line class="st1" x1="217.91" y1="87.17" x2="131.67" y2="87.17"/>
+	<line class="st1" x1="261.04" y1="85.66" x2="261.04" y2="58.14"/>
+</g>
 </svg>

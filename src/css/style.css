@@ -69,6 +69,7 @@ body {
   width: 300%;
   height: 22rem;
   bottom: 0;
+  display: flex;
 }
 
 .arbustos {
@@ -139,6 +140,24 @@ body {
   }
 }
 
+.scene2 {
+  width: auto;
+  height: 22rem;
+  bottom: calc(var(--floor) - 3px);
+}
+
+.arvoreNatal {
+  width: 32rem;
+  right: -16rem;
+  bottom: calc(var(--floor) - 3px);
+}
+
+.scene3 {
+  width: auto;
+  height: 22rem;
+  bottom: calc(var(--floor) - 3px);
+}
+
 .fireworks-container {
   position: absolute;
   width: 100%;
@@ -164,6 +183,7 @@ body {
 
 .btn-natal:before {
   content: '......';
+  position: absolute;
   width: 32px;
   background: url('../img/btn-icon.svg') no-repeat;
   background-size: 22px;
@@ -258,7 +278,7 @@ body {
 .abertura .botanico {
   position: absolute;
   width: 100%;
-  height: 14rem;
+  height: 22rem;
   bottom: calc(var(--floor) - 3px);
 }
 
