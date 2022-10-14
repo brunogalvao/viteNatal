@@ -248,7 +248,7 @@ body {
 
 .gastronomia {
   width: 82%;
-  height: var(--alturaImg);
+  height: calc(var(--alturaImg) - 42px);
   bottom: calc(var(--floor) - 24px);
   z-index: 9;
 }
