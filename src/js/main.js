@@ -11,7 +11,7 @@ const pinnedImageWrappers = document.querySelectorAll('.js-wrap');
 if (pinnedImageWrappers) {
   pinnedImageWrappers.forEach((wrapper) => {
     const inner = wrapper.querySelector('.js-inner');
-    
+
     const botanico = document.querySelector('.botanico');
     const tangua = document.querySelector('.tangua');
     const logo = document.querySelector('.logo');
@@ -40,7 +40,7 @@ if (pinnedImageWrappers) {
     const roteiro = document.querySelector('.roteiro');
     // const logoScene15 = document.querySelector('.logoScene15');
     const scene15 = document.querySelector('.scene15');
-    
+
     let duration = 10,
       sections = gsap.utils.toArray(".scene"),
       // sectionIncrement = duration / (sections.length - 1),
@@ -51,14 +51,15 @@ if (pinnedImageWrappers) {
           scrub: 1,
           snap: 1 / (sections.length - 1),
           // start: "top top",
-          end: () => `+=${inner.offsetWidth}`
+          // end: () => `+=${inner.offsetWidth}`
+          end: '+=4200%'
         }
-      });
+      }, 10);
 
     tl.to(sections, {
       xPercent: -100 * (sections.length - 1),
-      duration: duration,
-      ease: "none"
+      // duration: 10,
+      ease: "none",
     });
 
     gsap.to(araucaria, {
