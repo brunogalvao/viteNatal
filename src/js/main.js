@@ -54,7 +54,7 @@ if (pinnedImageWrappers) {
           snap: 1 / (sections.length - 1),
           // start: "top top",
           // end: () => `+=${inner.offsetWidth}`,
-          end: '+=6000%'
+          end: '+=3000%'
       }
     });
 
