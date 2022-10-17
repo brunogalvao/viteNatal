@@ -1,9 +1,11 @@
 import '../css/style.css'
 
 import { gsap } from "gsap"
-import { ScrollTrigger } from 'gsap/all'
-
-gsap.registerPlugin(ScrollTrigger);
+import { Timeline } from 'gsap/gsap-core';
+import { Tween } from 'gsap/gsap-core';
+import { ScrollTrigger } from 'gsap/src/all';
+ 
+gsap.registerPlugin(ScrollTrigger, Timeline, Tween);
 
 const pinnedImageWrappers = document.querySelectorAll('.js-wrap');
 
@@ -38,11 +40,11 @@ if (pinnedImageWrappers) {
     const arvoreMusica = document.querySelector('.arvoreMusica');
     const gastronomia = document.querySelector('.gastronomia');
     const roteiro = document.querySelector('.roteiro');
-    // const logoScene15 = document.querySelector('.logoScene15');
     const scene15 = document.querySelector('.scene15');
 
-    let duration = 10,
-      sections = gsap.utils.toArray(".scene"),
+
+    let sections = gsap.utils.toArray(".scene"),
+      // sections = gsap.utils.toArray(".scene"),
       // sectionIncrement = duration / (sections.length - 1),
       tl = gsap.timeline({
         scrollTrigger: {
@@ -51,16 +53,32 @@ if (pinnedImageWrappers) {
           scrub: 1,
           snap: 1 / (sections.length - 1),
           // start: "top top",
-          // end: () => `+=${inner.offsetWidth}`
-          end: '+=28000%'
-        }
-      }, 10);
+          // end: () => `+=${inner.offsetWidth}`,
+          end: '+=12000%'
+      }
+    });
 
     tl.to(sections, {
       xPercent: -100 * (sections.length - 1),
-      // duration: 10,
       ease: "none",
     });
+    
+
+    // gsap.to(".scene", {
+    //   // x: () => -(inner.scrollWidth - document.documentElement.clientWidth) + 'px',            
+    //   ease: 'none',
+    //   scrollTrigger: {
+    //       start: 'top',
+    //       trigger: wrapper,
+    //       pin: true,
+    //       scrub: true,
+    //       markers: true,
+    //       invalidateOnRefresh: true,
+    //       end: '+=12000%'
+    //       // end: () => `+=${inner.offsetWidth}`            
+    //   }
+    // });
+
 
     gsap.to(araucaria, {
       x: -380,
@@ -213,11 +231,6 @@ if (pinnedImageWrappers) {
       position: 'absolute',
       start: 'top',
     });
-
-    // gsap.to(logoScene15, {
-    //   position: 'absolute',
-    //   start: 'top',
-    // });
 
     gsap.to(scene15, {
       position: 'absolute',

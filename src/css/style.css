@@ -352,7 +352,7 @@ body {
 
 .content-wrapper {
   background: rgb(228, 3, 46);
-  background: radial-gradient(circle, rgba(228, 3, 46, 1) 0%, rgba(102, 31, 36, 1) 82%, rgba(57, 32, 28, 1) 100%);
+  background: radial-gradient(circle, rgba(228, 3, 46, 1) 0%, rgb(224, 89, 98) 82%, rgb(208, 42, 16) 100%);
 }
 
 .logoSmall {
